@@ -12,7 +12,7 @@
     HENLO THERE FREN
 </body>
     <script>
-        var data = d3.csvParse(await FileAttachment("https://raw.githubusercontent.com/danielcaraway/data/master/covid_wk2_grouped_confirmed.csv.csv").text(), d3.autoType)
+        var data = d3.csvParse(FileAttachment("https://raw.githubusercontent.com/danielcaraway/data/master/covid_wk2_grouped_confirmed.csv.csv").text(), d3.autoType)
         function logData(data){console.log(data)}
         logData(data)
     </script>
