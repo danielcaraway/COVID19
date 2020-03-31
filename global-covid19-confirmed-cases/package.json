@@ -1,0 +1,14 @@
+{
+  "name": "@danielcaraway/global-covid19-confirmed-cases",
+  "main": "26f7a75623d16c3b@3133.js",
+  "version": "3133.0.0",
+  "homepage": "https://observablehq.com/@danielcaraway/global-covid19-confirmed-cases",
+  "author": {
+    "name": "Daniel Caraway",
+    "url": "https://observablehq.com/@danielcaraway"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
