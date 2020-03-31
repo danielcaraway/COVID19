@@ -4,8 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.15.0/d3.js"></script>
+
+    
 </head>
 <body>
     HENLO THERE FREN
 </body>
+    <script>
+        data = d3.csvParse(await FileAttachment("https://raw.githubusercontent.com/danielcaraway/data/master/covid_wk2_grouped_confirmed.csv.csv").text(), d3.autoType)
+        console.log(data)
+    </script>
 </html>
