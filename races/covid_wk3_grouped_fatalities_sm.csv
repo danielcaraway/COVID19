@@ -1,0 +1,2627 @@
+name,date,value
+Afghanistan,2020-03-22,1.0
+Afghanistan,2020-03-23,1.0
+Afghanistan,2020-03-24,1.0
+Afghanistan,2020-03-25,2.0
+Afghanistan,2020-03-26,4.0
+Afghanistan,2020-03-27,4.0
+Afghanistan,2020-03-28,4.0
+Afghanistan,2020-03-29,4.0
+Afghanistan,2020-03-30,4.0
+Afghanistan,2020-03-31,4.0
+Afghanistan,2020-04-01,4.0
+Afghanistan,2020-04-02,6.0
+Afghanistan,2020-04-03,6.0
+Afghanistan,2020-04-04,7.0
+Afghanistan,2020-04-05,7.0
+Albania,2020-03-11,1.0
+Albania,2020-03-12,1.0
+Albania,2020-03-13,1.0
+Albania,2020-03-14,1.0
+Albania,2020-03-15,1.0
+Albania,2020-03-16,1.0
+Albania,2020-03-17,1.0
+Albania,2020-03-18,2.0
+Albania,2020-03-19,2.0
+Albania,2020-03-20,2.0
+Albania,2020-03-21,2.0
+Albania,2020-03-22,2.0
+Albania,2020-03-23,4.0
+Albania,2020-03-24,5.0
+Albania,2020-03-25,5.0
+Albania,2020-03-26,6.0
+Albania,2020-03-27,8.0
+Albania,2020-03-28,10.0
+Albania,2020-03-29,10.0
+Albania,2020-03-30,11.0
+Albania,2020-03-31,15.0
+Albania,2020-04-01,15.0
+Albania,2020-04-02,16.0
+Albania,2020-04-03,17.0
+Albania,2020-04-04,20.0
+Albania,2020-04-05,20.0
+Algeria,2020-03-12,1.0
+Algeria,2020-03-13,2.0
+Algeria,2020-03-14,3.0
+Algeria,2020-03-15,4.0
+Algeria,2020-03-16,4.0
+Algeria,2020-03-17,4.0
+Algeria,2020-03-18,7.0
+Algeria,2020-03-19,9.0
+Algeria,2020-03-20,11.0
+Algeria,2020-03-21,15.0
+Algeria,2020-03-22,17.0
+Algeria,2020-03-23,17.0
+Algeria,2020-03-24,19.0
+Algeria,2020-03-25,21.0
+Algeria,2020-03-26,25.0
+Algeria,2020-03-27,26.0
+Algeria,2020-03-28,29.0
+Algeria,2020-03-29,31.0
+Algeria,2020-03-30,35.0
+Algeria,2020-03-31,44.0
+Algeria,2020-04-01,58.0
+Algeria,2020-04-02,86.0
+Algeria,2020-04-03,105.0
+Algeria,2020-04-04,130.0
+Algeria,2020-04-05,152.0
+Andorra,2020-03-22,1.0
+Andorra,2020-03-23,1.0
+Andorra,2020-03-24,1.0
+Andorra,2020-03-25,1.0
+Andorra,2020-03-26,3.0
+Andorra,2020-03-27,3.0
+Andorra,2020-03-28,3.0
+Andorra,2020-03-29,6.0
+Andorra,2020-03-30,8.0
+Andorra,2020-03-31,12.0
+Andorra,2020-04-01,14.0
+Andorra,2020-04-02,15.0
+Andorra,2020-04-03,16.0
+Andorra,2020-04-04,17.0
+Andorra,2020-04-05,18.0
+Angola,2020-03-29,2.0
+Angola,2020-03-30,2.0
+Angola,2020-03-31,2.0
+Angola,2020-04-01,2.0
+Angola,2020-04-02,2.0
+Angola,2020-04-03,2.0
+Angola,2020-04-04,2.0
+Angola,2020-04-05,2.0
+Argentina,2020-03-08,1.0
+Argentina,2020-03-09,1.0
+Argentina,2020-03-10,1.0
+Argentina,2020-03-11,1.0
+Argentina,2020-03-12,1.0
+Argentina,2020-03-13,2.0
+Argentina,2020-03-14,2.0
+Argentina,2020-03-15,2.0
+Argentina,2020-03-16,2.0
+Argentina,2020-03-17,2.0
+Argentina,2020-03-18,2.0
+Argentina,2020-03-19,3.0
+Argentina,2020-03-20,3.0
+Argentina,2020-03-21,4.0
+Argentina,2020-03-22,4.0
+Argentina,2020-03-23,4.0
+Argentina,2020-03-24,6.0
+Argentina,2020-03-25,8.0
+Argentina,2020-03-26,9.0
+Argentina,2020-03-27,13.0
+Argentina,2020-03-28,18.0
+Argentina,2020-03-29,19.0
+Argentina,2020-03-30,23.0
+Argentina,2020-03-31,27.0
+Argentina,2020-04-01,28.0
+Argentina,2020-04-02,36.0
+Argentina,2020-04-03,39.0
+Argentina,2020-04-04,43.0
+Argentina,2020-04-05,44.0
+Armenia,2020-03-26,1.0
+Armenia,2020-03-27,1.0
+Armenia,2020-03-28,1.0
+Armenia,2020-03-29,3.0
+Armenia,2020-03-30,3.0
+Armenia,2020-03-31,3.0
+Armenia,2020-04-01,4.0
+Armenia,2020-04-02,7.0
+Armenia,2020-04-03,7.0
+Armenia,2020-04-04,7.0
+Armenia,2020-04-05,7.0
+Australia,2020-03-01,1.0
+Australia,2020-03-02,1.0
+Australia,2020-03-03,1.0
+Australia,2020-03-04,2.0
+Australia,2020-03-05,2.0
+Australia,2020-03-06,2.0
+Australia,2020-03-07,2.0
+Australia,2020-03-08,3.0
+Australia,2020-03-09,3.0
+Australia,2020-03-10,3.0
+Australia,2020-03-11,3.0
+Australia,2020-03-12,3.0
+Australia,2020-03-13,3.0
+Australia,2020-03-14,3.0
+Australia,2020-03-15,3.0
+Australia,2020-03-16,3.0
+Australia,2020-03-17,5.0
+Australia,2020-03-18,6.0
+Australia,2020-03-19,6.0
+Australia,2020-03-20,7.0
+Australia,2020-03-21,7.0
+Australia,2020-03-22,7.0
+Australia,2020-03-23,7.0
+Australia,2020-03-24,8.0
+Australia,2020-03-25,8.0
+Australia,2020-03-26,13.0
+Australia,2020-03-27,13.0
+Australia,2020-03-28,14.0
+Australia,2020-03-29,16.0
+Australia,2020-03-30,17.0
+Australia,2020-03-31,18.0
+Australia,2020-04-01,20.0
+Australia,2020-04-02,24.0
+Australia,2020-04-03,28.0
+Australia,2020-04-04,30.0
+Australia,2020-04-05,35.0
+Austria,2020-03-12,1.0
+Austria,2020-03-13,1.0
+Austria,2020-03-14,1.0
+Austria,2020-03-15,1.0
+Austria,2020-03-16,3.0
+Austria,2020-03-17,3.0
+Austria,2020-03-18,4.0
+Austria,2020-03-19,6.0
+Austria,2020-03-20,6.0
+Austria,2020-03-21,8.0
+Austria,2020-03-22,16.0
+Austria,2020-03-23,21.0
+Austria,2020-03-24,28.0
+Austria,2020-03-25,30.0
+Austria,2020-03-26,49.0
+Austria,2020-03-27,58.0
+Austria,2020-03-28,68.0
+Austria,2020-03-29,86.0
+Austria,2020-03-30,108.0
+Austria,2020-03-31,128.0
+Austria,2020-04-01,146.0
+Austria,2020-04-02,158.0
+Austria,2020-04-03,168.0
+Austria,2020-04-04,186.0
+Austria,2020-04-05,204.0
+Azerbaijan,2020-03-13,1.0
+Azerbaijan,2020-03-14,1.0
+Azerbaijan,2020-03-15,1.0
+Azerbaijan,2020-03-16,1.0
+Azerbaijan,2020-03-17,1.0
+Azerbaijan,2020-03-18,1.0
+Azerbaijan,2020-03-19,1.0
+Azerbaijan,2020-03-20,1.0
+Azerbaijan,2020-03-21,1.0
+Azerbaijan,2020-03-22,1.0
+Azerbaijan,2020-03-23,1.0
+Azerbaijan,2020-03-24,1.0
+Azerbaijan,2020-03-25,2.0
+Azerbaijan,2020-03-26,3.0
+Azerbaijan,2020-03-27,3.0
+Azerbaijan,2020-03-28,4.0
+Azerbaijan,2020-03-29,4.0
+Azerbaijan,2020-03-30,4.0
+Azerbaijan,2020-03-31,5.0
+Azerbaijan,2020-04-01,5.0
+Azerbaijan,2020-04-02,5.0
+Azerbaijan,2020-04-03,5.0
+Azerbaijan,2020-04-04,5.0
+Azerbaijan,2020-04-05,7.0
+Bahamas,2020-04-01,1.0
+Bahamas,2020-04-02,1.0
+Bahamas,2020-04-03,1.0
+Bahamas,2020-04-04,4.0
+Bahamas,2020-04-05,4.0
+Bahrain,2020-03-16,1.0
+Bahrain,2020-03-17,1.0
+Bahrain,2020-03-18,1.0
+Bahrain,2020-03-19,1.0
+Bahrain,2020-03-20,1.0
+Bahrain,2020-03-21,1.0
+Bahrain,2020-03-22,2.0
+Bahrain,2020-03-23,2.0
+Bahrain,2020-03-24,3.0
+Bahrain,2020-03-25,4.0
+Bahrain,2020-03-26,4.0
+Bahrain,2020-03-27,4.0
+Bahrain,2020-03-28,4.0
+Bahrain,2020-03-29,4.0
+Bahrain,2020-03-30,4.0
+Bahrain,2020-03-31,4.0
+Bahrain,2020-04-01,4.0
+Bahrain,2020-04-02,4.0
+Bahrain,2020-04-03,4.0
+Bahrain,2020-04-04,4.0
+Bahrain,2020-04-05,4.0
+Bangladesh,2020-03-18,1.0
+Bangladesh,2020-03-19,1.0
+Bangladesh,2020-03-20,1.0
+Bangladesh,2020-03-21,2.0
+Bangladesh,2020-03-22,2.0
+Bangladesh,2020-03-23,3.0
+Bangladesh,2020-03-24,4.0
+Bangladesh,2020-03-25,5.0
+Bangladesh,2020-03-26,5.0
+Bangladesh,2020-03-27,5.0
+Bangladesh,2020-03-28,5.0
+Bangladesh,2020-03-29,5.0
+Bangladesh,2020-03-30,5.0
+Bangladesh,2020-03-31,5.0
+Bangladesh,2020-04-01,6.0
+Bangladesh,2020-04-02,6.0
+Bangladesh,2020-04-03,6.0
+Bangladesh,2020-04-04,8.0
+Bangladesh,2020-04-05,9.0
+Barbados,2020-04-05,1.0
+Belarus,2020-03-31,1.0
+Belarus,2020-04-01,2.0
+Belarus,2020-04-02,4.0
+Belarus,2020-04-03,4.0
+Belarus,2020-04-04,5.0
+Belarus,2020-04-05,8.0
+Belgium,2020-03-11,3.0
+Belgium,2020-03-12,3.0
+Belgium,2020-03-13,3.0
+Belgium,2020-03-14,4.0
+Belgium,2020-03-15,4.0
+Belgium,2020-03-16,5.0
+Belgium,2020-03-17,10.0
+Belgium,2020-03-18,14.0
+Belgium,2020-03-19,21.0
+Belgium,2020-03-20,37.0
+Belgium,2020-03-21,67.0
+Belgium,2020-03-22,75.0
+Belgium,2020-03-23,88.0
+Belgium,2020-03-24,122.0
+Belgium,2020-03-25,178.0
+Belgium,2020-03-26,220.0
+Belgium,2020-03-27,289.0
+Belgium,2020-03-28,353.0
+Belgium,2020-03-29,431.0
+Belgium,2020-03-30,513.0
+Belgium,2020-03-31,705.0
+Belgium,2020-04-01,828.0
+Belgium,2020-04-02,1011.0
+Belgium,2020-04-03,1143.0
+Belgium,2020-04-04,1283.0
+Belgium,2020-04-05,1447.0
+Bolivia,2020-03-29,1.0
+Bolivia,2020-03-30,4.0
+Bolivia,2020-03-31,6.0
+Bolivia,2020-04-01,7.0
+Bolivia,2020-04-02,8.0
+Bolivia,2020-04-03,9.0
+Bolivia,2020-04-04,10.0
+Bolivia,2020-04-05,10.0
+Bosnia and Herzegovina,2020-03-21,1.0
+Bosnia and Herzegovina,2020-03-22,1.0
+Bosnia and Herzegovina,2020-03-23,1.0
+Bosnia and Herzegovina,2020-03-24,3.0
+Bosnia and Herzegovina,2020-03-25,3.0
+Bosnia and Herzegovina,2020-03-26,3.0
+Bosnia and Herzegovina,2020-03-27,4.0
+Bosnia and Herzegovina,2020-03-28,5.0
+Bosnia and Herzegovina,2020-03-29,6.0
+Bosnia and Herzegovina,2020-03-30,10.0
+Bosnia and Herzegovina,2020-03-31,13.0
+Bosnia and Herzegovina,2020-04-01,13.0
+Bosnia and Herzegovina,2020-04-02,16.0
+Bosnia and Herzegovina,2020-04-03,17.0
+Bosnia and Herzegovina,2020-04-04,21.0
+Bosnia and Herzegovina,2020-04-05,23.0
+Botswana,2020-03-31,1.0
+Botswana,2020-04-01,1.0
+Botswana,2020-04-02,1.0
+Botswana,2020-04-03,1.0
+Botswana,2020-04-04,1.0
+Botswana,2020-04-05,1.0
+Brazil,2020-03-17,1.0
+Brazil,2020-03-18,3.0
+Brazil,2020-03-19,6.0
+Brazil,2020-03-20,11.0
+Brazil,2020-03-21,15.0
+Brazil,2020-03-22,25.0
+Brazil,2020-03-23,34.0
+Brazil,2020-03-24,46.0
+Brazil,2020-03-25,59.0
+Brazil,2020-03-26,77.0
+Brazil,2020-03-27,92.0
+Brazil,2020-03-28,111.0
+Brazil,2020-03-29,136.0
+Brazil,2020-03-30,159.0
+Brazil,2020-03-31,201.0
+Brazil,2020-04-01,240.0
+Brazil,2020-04-02,324.0
+Brazil,2020-04-03,359.0
+Brazil,2020-04-04,445.0
+Brazil,2020-04-05,486.0
+Brunei,2020-03-28,1.0
+Brunei,2020-03-29,1.0
+Brunei,2020-03-30,1.0
+Brunei,2020-03-31,1.0
+Brunei,2020-04-01,1.0
+Brunei,2020-04-02,1.0
+Brunei,2020-04-03,1.0
+Brunei,2020-04-04,1.0
+Brunei,2020-04-05,1.0
+Bulgaria,2020-03-11,1.0
+Bulgaria,2020-03-12,1.0
+Bulgaria,2020-03-13,1.0
+Bulgaria,2020-03-14,2.0
+Bulgaria,2020-03-15,2.0
+Bulgaria,2020-03-16,2.0
+Bulgaria,2020-03-17,2.0
+Bulgaria,2020-03-18,2.0
+Bulgaria,2020-03-19,3.0
+Bulgaria,2020-03-20,3.0
+Bulgaria,2020-03-21,3.0
+Bulgaria,2020-03-22,3.0
+Bulgaria,2020-03-23,3.0
+Bulgaria,2020-03-24,3.0
+Bulgaria,2020-03-25,3.0
+Bulgaria,2020-03-26,3.0
+Bulgaria,2020-03-27,3.0
+Bulgaria,2020-03-28,7.0
+Bulgaria,2020-03-29,8.0
+Bulgaria,2020-03-30,8.0
+Bulgaria,2020-03-31,8.0
+Bulgaria,2020-04-01,10.0
+Bulgaria,2020-04-02,10.0
+Bulgaria,2020-04-03,14.0
+Bulgaria,2020-04-04,17.0
+Bulgaria,2020-04-05,20.0
+Burkina Faso,2020-03-18,1.0
+Burkina Faso,2020-03-19,1.0
+Burkina Faso,2020-03-20,1.0
+Burkina Faso,2020-03-21,2.0
+Burkina Faso,2020-03-22,4.0
+Burkina Faso,2020-03-23,4.0
+Burkina Faso,2020-03-24,4.0
+Burkina Faso,2020-03-25,4.0
+Burkina Faso,2020-03-26,7.0
+Burkina Faso,2020-03-27,9.0
+Burkina Faso,2020-03-28,11.0
+Burkina Faso,2020-03-29,12.0
+Burkina Faso,2020-03-30,12.0
+Burkina Faso,2020-03-31,14.0
+Burkina Faso,2020-04-01,16.0
+Burkina Faso,2020-04-02,16.0
+Burkina Faso,2020-04-03,16.0
+Burkina Faso,2020-04-04,16.0
+Burkina Faso,2020-04-05,17.0
+Burma,2020-03-31,1.0
+Burma,2020-04-01,1.0
+Burma,2020-04-02,1.0
+Burma,2020-04-03,1.0
+Burma,2020-04-04,1.0
+Burma,2020-04-05,1.0
+Cabo Verde,2020-03-24,1.0
+Cabo Verde,2020-03-25,1.0
+Cabo Verde,2020-03-26,1.0
+Cabo Verde,2020-03-27,1.0
+Cabo Verde,2020-03-28,1.0
+Cabo Verde,2020-03-29,1.0
+Cabo Verde,2020-03-30,1.0
+Cabo Verde,2020-03-31,1.0
+Cabo Verde,2020-04-01,1.0
+Cabo Verde,2020-04-02,1.0
+Cabo Verde,2020-04-03,1.0
+Cabo Verde,2020-04-04,1.0
+Cabo Verde,2020-04-05,1.0
+Cameroon,2020-03-25,1.0
+Cameroon,2020-03-26,1.0
+Cameroon,2020-03-27,2.0
+Cameroon,2020-03-28,2.0
+Cameroon,2020-03-29,6.0
+Cameroon,2020-03-30,6.0
+Cameroon,2020-03-31,6.0
+Cameroon,2020-04-01,6.0
+Cameroon,2020-04-02,7.0
+Cameroon,2020-04-03,8.0
+Cameroon,2020-04-04,9.0
+Cameroon,2020-04-05,9.0
+Canada,2020-03-09,1.0
+Canada,2020-03-10,1.0
+Canada,2020-03-11,1.0
+Canada,2020-03-12,1.0
+Canada,2020-03-13,1.0
+Canada,2020-03-14,1.0
+Canada,2020-03-15,1.0
+Canada,2020-03-16,4.0
+Canada,2020-03-17,5.0
+Canada,2020-03-18,8.0
+Canada,2020-03-19,9.0
+Canada,2020-03-20,12.0
+Canada,2020-03-21,19.0
+Canada,2020-03-22,20.0
+Canada,2020-03-23,24.0
+Canada,2020-03-24,25.0
+Canada,2020-03-25,29.0
+Canada,2020-03-26,37.0
+Canada,2020-03-27,53.0
+Canada,2020-03-28,60.0
+Canada,2020-03-29,63.0
+Canada,2020-03-30,79.0
+Canada,2020-03-31,100.0
+Canada,2020-04-01,108.0
+Canada,2020-04-02,138.0
+Canada,2020-04-03,178.0
+Canada,2020-04-04,217.0
+Canada,2020-04-05,258.0
+Chile,2020-03-22,1.0
+Chile,2020-03-23,2.0
+Chile,2020-03-24,2.0
+Chile,2020-03-25,3.0
+Chile,2020-03-26,4.0
+Chile,2020-03-27,5.0
+Chile,2020-03-28,6.0
+Chile,2020-03-29,7.0
+Chile,2020-03-30,8.0
+Chile,2020-03-31,12.0
+Chile,2020-04-01,16.0
+Chile,2020-04-02,18.0
+Chile,2020-04-03,22.0
+Chile,2020-04-04,27.0
+Chile,2020-04-05,34.0
+China,2020-01-22,17.0
+China,2020-01-23,18.0
+China,2020-01-24,26.0
+China,2020-01-25,42.0
+China,2020-01-26,56.0
+China,2020-01-27,82.0
+China,2020-01-28,131.0
+China,2020-01-29,133.0
+China,2020-01-30,171.0
+China,2020-01-31,213.0
+China,2020-02-01,259.0
+China,2020-02-02,361.0
+China,2020-02-03,425.0
+China,2020-02-04,491.0
+China,2020-02-05,563.0
+China,2020-02-06,633.0
+China,2020-02-07,718.0
+China,2020-02-08,805.0
+China,2020-02-09,905.0
+China,2020-02-10,1012.0
+China,2020-02-11,1112.0
+China,2020-02-12,1117.0
+China,2020-02-13,1369.0
+China,2020-02-14,1521.0
+China,2020-02-15,1663.0
+China,2020-02-16,1766.0
+China,2020-02-17,1864.0
+China,2020-02-18,2003.0
+China,2020-02-19,2116.0
+China,2020-02-20,2238.0
+China,2020-02-21,2238.0
+China,2020-02-22,2443.0
+China,2020-02-23,2445.0
+China,2020-02-24,2595.0
+China,2020-02-25,2665.0
+China,2020-02-26,2717.0
+China,2020-02-27,2746.0
+China,2020-02-28,2790.0
+China,2020-02-29,2837.0
+China,2020-03-01,2872.0
+China,2020-03-02,2914.0
+China,2020-03-03,2947.0
+China,2020-03-04,2983.0
+China,2020-03-05,3015.0
+China,2020-03-06,3044.0
+China,2020-03-07,3072.0
+China,2020-03-08,3100.0
+China,2020-03-09,3123.0
+China,2020-03-10,3139.0
+China,2020-03-11,3161.0
+China,2020-03-12,3172.0
+China,2020-03-13,3180.0
+China,2020-03-14,3193.0
+China,2020-03-15,3203.0
+China,2020-03-16,3217.0
+China,2020-03-17,3230.0
+China,2020-03-18,3241.0
+China,2020-03-19,3249.0
+China,2020-03-20,3253.0
+China,2020-03-21,3259.0
+China,2020-03-22,3274.0
+China,2020-03-23,3274.0
+China,2020-03-24,3281.0
+China,2020-03-25,3285.0
+China,2020-03-26,3291.0
+China,2020-03-27,3296.0
+China,2020-03-28,3299.0
+China,2020-03-29,3304.0
+China,2020-03-30,3308.0
+China,2020-03-31,3309.0
+China,2020-04-01,3316.0
+China,2020-04-02,3322.0
+China,2020-04-03,3326.0
+China,2020-04-04,3330.0
+China,2020-04-05,3333.0
+Colombia,2020-03-22,2.0
+Colombia,2020-03-23,3.0
+Colombia,2020-03-24,3.0
+Colombia,2020-03-25,4.0
+Colombia,2020-03-26,6.0
+Colombia,2020-03-27,6.0
+Colombia,2020-03-28,6.0
+Colombia,2020-03-29,10.0
+Colombia,2020-03-30,12.0
+Colombia,2020-03-31,16.0
+Colombia,2020-04-01,17.0
+Colombia,2020-04-02,19.0
+Colombia,2020-04-03,25.0
+Colombia,2020-04-04,32.0
+Colombia,2020-04-05,35.0
+Congo (Brazzaville),2020-04-02,2.0
+Congo (Brazzaville),2020-04-03,2.0
+Congo (Brazzaville),2020-04-04,2.0
+Congo (Brazzaville),2020-04-05,5.0
+Congo (Kinshasa),2020-03-21,1.0
+Congo (Kinshasa),2020-03-22,1.0
+Congo (Kinshasa),2020-03-23,1.0
+Congo (Kinshasa),2020-03-24,2.0
+Congo (Kinshasa),2020-03-25,2.0
+Congo (Kinshasa),2020-03-26,3.0
+Congo (Kinshasa),2020-03-27,3.0
+Congo (Kinshasa),2020-03-28,6.0
+Congo (Kinshasa),2020-03-29,6.0
+Congo (Kinshasa),2020-03-30,8.0
+Congo (Kinshasa),2020-03-31,8.0
+Congo (Kinshasa),2020-04-01,9.0
+Congo (Kinshasa),2020-04-02,13.0
+Congo (Kinshasa),2020-04-03,13.0
+Congo (Kinshasa),2020-04-04,18.0
+Congo (Kinshasa),2020-04-05,18.0
+Costa Rica,2020-03-19,1.0
+Costa Rica,2020-03-20,1.0
+Costa Rica,2020-03-21,2.0
+Costa Rica,2020-03-22,2.0
+Costa Rica,2020-03-23,2.0
+Costa Rica,2020-03-24,2.0
+Costa Rica,2020-03-25,2.0
+Costa Rica,2020-03-26,2.0
+Costa Rica,2020-03-27,2.0
+Costa Rica,2020-03-28,2.0
+Costa Rica,2020-03-29,2.0
+Costa Rica,2020-03-30,2.0
+Costa Rica,2020-03-31,2.0
+Costa Rica,2020-04-01,2.0
+Costa Rica,2020-04-02,2.0
+Costa Rica,2020-04-03,2.0
+Costa Rica,2020-04-04,2.0
+Costa Rica,2020-04-05,2.0
+Cote d'Ivoire,2020-03-29,1.0
+Cote d'Ivoire,2020-03-30,1.0
+Cote d'Ivoire,2020-03-31,1.0
+Cote d'Ivoire,2020-04-01,1.0
+Cote d'Ivoire,2020-04-02,1.0
+Cote d'Ivoire,2020-04-03,1.0
+Cote d'Ivoire,2020-04-04,1.0
+Cote d'Ivoire,2020-04-05,3.0
+Croatia,2020-03-19,1.0
+Croatia,2020-03-20,1.0
+Croatia,2020-03-21,1.0
+Croatia,2020-03-22,1.0
+Croatia,2020-03-23,1.0
+Croatia,2020-03-24,1.0
+Croatia,2020-03-25,1.0
+Croatia,2020-03-26,3.0
+Croatia,2020-03-27,3.0
+Croatia,2020-03-28,5.0
+Croatia,2020-03-29,6.0
+Croatia,2020-03-30,6.0
+Croatia,2020-03-31,6.0
+Croatia,2020-04-01,6.0
+Croatia,2020-04-02,7.0
+Croatia,2020-04-03,8.0
+Croatia,2020-04-04,12.0
+Croatia,2020-04-05,15.0
+Cuba,2020-03-18,1.0
+Cuba,2020-03-19,1.0
+Cuba,2020-03-20,1.0
+Cuba,2020-03-21,1.0
+Cuba,2020-03-22,1.0
+Cuba,2020-03-23,1.0
+Cuba,2020-03-24,1.0
+Cuba,2020-03-25,1.0
+Cuba,2020-03-26,2.0
+Cuba,2020-03-27,2.0
+Cuba,2020-03-28,3.0
+Cuba,2020-03-29,3.0
+Cuba,2020-03-30,4.0
+Cuba,2020-03-31,6.0
+Cuba,2020-04-01,6.0
+Cuba,2020-04-02,6.0
+Cuba,2020-04-03,6.0
+Cuba,2020-04-04,6.0
+Cuba,2020-04-05,8.0
+Cyprus,2020-03-22,1.0
+Cyprus,2020-03-23,1.0
+Cyprus,2020-03-24,3.0
+Cyprus,2020-03-25,3.0
+Cyprus,2020-03-26,3.0
+Cyprus,2020-03-27,5.0
+Cyprus,2020-03-28,5.0
+Cyprus,2020-03-29,5.0
+Cyprus,2020-03-30,7.0
+Cyprus,2020-03-31,8.0
+Cyprus,2020-04-01,9.0
+Cyprus,2020-04-02,10.0
+Cyprus,2020-04-03,11.0
+Cyprus,2020-04-04,11.0
+Cyprus,2020-04-05,9.0
+Czechia,2020-03-22,1.0
+Czechia,2020-03-23,1.0
+Czechia,2020-03-24,3.0
+Czechia,2020-03-25,6.0
+Czechia,2020-03-26,9.0
+Czechia,2020-03-27,9.0
+Czechia,2020-03-28,11.0
+Czechia,2020-03-29,16.0
+Czechia,2020-03-30,23.0
+Czechia,2020-03-31,31.0
+Czechia,2020-04-01,39.0
+Czechia,2020-04-02,44.0
+Czechia,2020-04-03,53.0
+Czechia,2020-04-04,59.0
+Czechia,2020-04-05,67.0
+Denmark,2020-03-14,1.0
+Denmark,2020-03-15,2.0
+Denmark,2020-03-16,3.0
+Denmark,2020-03-17,4.0
+Denmark,2020-03-18,4.0
+Denmark,2020-03-19,6.0
+Denmark,2020-03-20,9.0
+Denmark,2020-03-21,13.0
+Denmark,2020-03-22,13.0
+Denmark,2020-03-23,24.0
+Denmark,2020-03-24,32.0
+Denmark,2020-03-25,34.0
+Denmark,2020-03-26,41.0
+Denmark,2020-03-27,52.0
+Denmark,2020-03-28,65.0
+Denmark,2020-03-29,72.0
+Denmark,2020-03-30,77.0
+Denmark,2020-03-31,90.0
+Denmark,2020-04-01,104.0
+Denmark,2020-04-02,123.0
+Denmark,2020-04-03,139.0
+Denmark,2020-04-04,161.0
+Denmark,2020-04-05,179.0
+Diamond Princess,2020-02-20,2.0
+Diamond Princess,2020-02-21,2.0
+Diamond Princess,2020-02-22,2.0
+Diamond Princess,2020-02-23,3.0
+Diamond Princess,2020-02-24,3.0
+Diamond Princess,2020-02-25,3.0
+Diamond Princess,2020-02-26,4.0
+Diamond Princess,2020-02-27,4.0
+Diamond Princess,2020-02-28,6.0
+Diamond Princess,2020-02-29,6.0
+Diamond Princess,2020-03-01,6.0
+Diamond Princess,2020-03-02,6.0
+Diamond Princess,2020-03-03,6.0
+Diamond Princess,2020-03-04,6.0
+Diamond Princess,2020-03-05,6.0
+Diamond Princess,2020-03-06,6.0
+Diamond Princess,2020-03-07,6.0
+Diamond Princess,2020-03-08,6.0
+Diamond Princess,2020-03-09,6.0
+Diamond Princess,2020-03-10,6.0
+Diamond Princess,2020-03-11,7.0
+Diamond Princess,2020-03-12,7.0
+Diamond Princess,2020-03-13,7.0
+Diamond Princess,2020-03-14,7.0
+Diamond Princess,2020-03-15,7.0
+Diamond Princess,2020-03-16,7.0
+Diamond Princess,2020-03-17,7.0
+Diamond Princess,2020-03-18,7.0
+Diamond Princess,2020-03-19,7.0
+Diamond Princess,2020-03-20,7.0
+Diamond Princess,2020-03-21,8.0
+Diamond Princess,2020-03-22,8.0
+Diamond Princess,2020-03-23,8.0
+Diamond Princess,2020-03-24,10.0
+Diamond Princess,2020-03-25,10.0
+Diamond Princess,2020-03-26,10.0
+Diamond Princess,2020-03-27,10.0
+Diamond Princess,2020-03-28,10.0
+Diamond Princess,2020-03-29,10.0
+Diamond Princess,2020-03-30,10.0
+Diamond Princess,2020-03-31,10.0
+Diamond Princess,2020-04-01,11.0
+Diamond Princess,2020-04-02,11.0
+Diamond Princess,2020-04-03,11.0
+Diamond Princess,2020-04-04,11.0
+Diamond Princess,2020-04-05,11.0
+Dominican Republic,2020-03-17,1.0
+Dominican Republic,2020-03-18,1.0
+Dominican Republic,2020-03-19,2.0
+Dominican Republic,2020-03-20,2.0
+Dominican Republic,2020-03-21,2.0
+Dominican Republic,2020-03-22,3.0
+Dominican Republic,2020-03-23,3.0
+Dominican Republic,2020-03-24,6.0
+Dominican Republic,2020-03-25,10.0
+Dominican Republic,2020-03-26,10.0
+Dominican Republic,2020-03-27,20.0
+Dominican Republic,2020-03-28,28.0
+Dominican Republic,2020-03-29,39.0
+Dominican Republic,2020-03-30,42.0
+Dominican Republic,2020-03-31,51.0
+Dominican Republic,2020-04-01,57.0
+Dominican Republic,2020-04-02,60.0
+Dominican Republic,2020-04-03,68.0
+Dominican Republic,2020-04-04,68.0
+Dominican Republic,2020-04-05,82.0
+Ecuador,2020-03-14,2.0
+Ecuador,2020-03-15,2.0
+Ecuador,2020-03-16,2.0
+Ecuador,2020-03-17,2.0
+Ecuador,2020-03-18,2.0
+Ecuador,2020-03-19,3.0
+Ecuador,2020-03-20,5.0
+Ecuador,2020-03-21,7.0
+Ecuador,2020-03-22,14.0
+Ecuador,2020-03-23,18.0
+Ecuador,2020-03-24,27.0
+Ecuador,2020-03-25,28.0
+Ecuador,2020-03-26,34.0
+Ecuador,2020-03-27,36.0
+Ecuador,2020-03-28,48.0
+Ecuador,2020-03-29,58.0
+Ecuador,2020-03-30,60.0
+Ecuador,2020-03-31,75.0
+Ecuador,2020-04-01,93.0
+Ecuador,2020-04-02,120.0
+Ecuador,2020-04-03,145.0
+Ecuador,2020-04-04,172.0
+Ecuador,2020-04-05,180.0
+Egypt,2020-03-08,1.0
+Egypt,2020-03-09,1.0
+Egypt,2020-03-10,1.0
+Egypt,2020-03-11,1.0
+Egypt,2020-03-12,1.0
+Egypt,2020-03-13,2.0
+Egypt,2020-03-14,2.0
+Egypt,2020-03-15,2.0
+Egypt,2020-03-16,2.0
+Egypt,2020-03-17,4.0
+Egypt,2020-03-18,6.0
+Egypt,2020-03-19,6.0
+Egypt,2020-03-20,8.0
+Egypt,2020-03-21,10.0
+Egypt,2020-03-22,14.0
+Egypt,2020-03-23,19.0
+Egypt,2020-03-24,20.0
+Egypt,2020-03-25,21.0
+Egypt,2020-03-26,24.0
+Egypt,2020-03-27,30.0
+Egypt,2020-03-28,36.0
+Egypt,2020-03-29,40.0
+Egypt,2020-03-30,41.0
+Egypt,2020-03-31,46.0
+Egypt,2020-04-01,52.0
+Egypt,2020-04-02,58.0
+Egypt,2020-04-03,66.0
+Egypt,2020-04-04,71.0
+Egypt,2020-04-05,78.0
+El Salvador,2020-03-31,1.0
+El Salvador,2020-04-01,1.0
+El Salvador,2020-04-02,2.0
+El Salvador,2020-04-03,2.0
+El Salvador,2020-04-04,3.0
+El Salvador,2020-04-05,3.0
+Estonia,2020-03-25,1.0
+Estonia,2020-03-26,1.0
+Estonia,2020-03-27,1.0
+Estonia,2020-03-28,1.0
+Estonia,2020-03-29,3.0
+Estonia,2020-03-30,3.0
+Estonia,2020-03-31,4.0
+Estonia,2020-04-01,5.0
+Estonia,2020-04-02,11.0
+Estonia,2020-04-03,12.0
+Estonia,2020-04-04,13.0
+Estonia,2020-04-05,15.0
+Ethiopia,2020-04-05,2.0
+Finland,2020-03-21,1.0
+Finland,2020-03-22,1.0
+Finland,2020-03-23,1.0
+Finland,2020-03-24,1.0
+Finland,2020-03-25,3.0
+Finland,2020-03-26,5.0
+Finland,2020-03-27,7.0
+Finland,2020-03-28,9.0
+Finland,2020-03-29,11.0
+Finland,2020-03-30,13.0
+Finland,2020-03-31,17.0
+Finland,2020-04-01,17.0
+Finland,2020-04-02,19.0
+Finland,2020-04-03,20.0
+Finland,2020-04-04,25.0
+Finland,2020-04-05,28.0
+France,2020-02-15,1.0
+France,2020-02-16,1.0
+France,2020-02-17,1.0
+France,2020-02-18,1.0
+France,2020-02-19,1.0
+France,2020-02-20,1.0
+France,2020-02-21,1.0
+France,2020-02-22,1.0
+France,2020-02-23,1.0
+France,2020-02-24,1.0
+France,2020-02-25,1.0
+France,2020-02-26,2.0
+France,2020-02-27,2.0
+France,2020-02-28,2.0
+France,2020-02-29,2.0
+France,2020-03-01,2.0
+France,2020-03-02,3.0
+France,2020-03-03,4.0
+France,2020-03-04,4.0
+France,2020-03-05,6.0
+France,2020-03-06,9.0
+France,2020-03-07,11.0
+France,2020-03-08,19.0
+France,2020-03-09,19.0
+France,2020-03-10,33.0
+France,2020-03-11,48.0
+France,2020-03-12,48.0
+France,2020-03-13,79.0
+France,2020-03-14,91.0
+France,2020-03-15,91.0
+France,2020-03-16,149.0
+France,2020-03-17,149.0
+France,2020-03-18,149.0
+France,2020-03-19,244.0
+France,2020-03-20,451.0
+France,2020-03-21,563.0
+France,2020-03-22,676.0
+France,2020-03-23,862.0
+France,2020-03-24,1102.0
+France,2020-03-25,1333.0
+France,2020-03-26,1698.0
+France,2020-03-27,1997.0
+France,2020-03-28,2317.0
+France,2020-03-29,2611.0
+France,2020-03-30,3030.0
+France,2020-03-31,3532.0
+France,2020-04-01,4043.0
+France,2020-04-02,5398.0
+France,2020-04-03,6520.0
+France,2020-04-04,7574.0
+France,2020-04-05,8093.0
+Gabon,2020-03-20,1.0
+Gabon,2020-03-21,1.0
+Gabon,2020-03-22,1.0
+Gabon,2020-03-23,1.0
+Gabon,2020-03-24,1.0
+Gabon,2020-03-25,1.0
+Gabon,2020-03-26,1.0
+Gabon,2020-03-27,1.0
+Gabon,2020-03-28,1.0
+Gabon,2020-03-29,1.0
+Gabon,2020-03-30,1.0
+Gabon,2020-03-31,1.0
+Gabon,2020-04-01,1.0
+Gabon,2020-04-02,1.0
+Gabon,2020-04-03,1.0
+Gabon,2020-04-04,1.0
+Gabon,2020-04-05,1.0
+Gambia,2020-03-23,1.0
+Gambia,2020-03-24,1.0
+Gambia,2020-03-25,1.0
+Gambia,2020-03-26,1.0
+Gambia,2020-03-27,1.0
+Gambia,2020-03-28,1.0
+Gambia,2020-03-29,1.0
+Gambia,2020-03-30,1.0
+Gambia,2020-03-31,1.0
+Gambia,2020-04-01,1.0
+Gambia,2020-04-02,1.0
+Gambia,2020-04-03,1.0
+Gambia,2020-04-04,1.0
+Gambia,2020-04-05,1.0
+Georgia,2020-04-04,1.0
+Georgia,2020-04-05,2.0
+Germany,2020-03-09,2.0
+Germany,2020-03-10,2.0
+Germany,2020-03-11,3.0
+Germany,2020-03-12,3.0
+Germany,2020-03-13,7.0
+Germany,2020-03-14,9.0
+Germany,2020-03-15,11.0
+Germany,2020-03-16,17.0
+Germany,2020-03-17,24.0
+Germany,2020-03-18,28.0
+Germany,2020-03-19,44.0
+Germany,2020-03-20,67.0
+Germany,2020-03-21,84.0
+Germany,2020-03-22,94.0
+Germany,2020-03-23,123.0
+Germany,2020-03-24,157.0
+Germany,2020-03-25,206.0
+Germany,2020-03-26,267.0
+Germany,2020-03-27,342.0
+Germany,2020-03-28,433.0
+Germany,2020-03-29,533.0
+Germany,2020-03-30,645.0
+Germany,2020-03-31,775.0
+Germany,2020-04-01,920.0
+Germany,2020-04-02,1107.0
+Germany,2020-04-03,1275.0
+Germany,2020-04-04,1444.0
+Germany,2020-04-05,1584.0
+Ghana,2020-03-21,1.0
+Ghana,2020-03-22,1.0
+Ghana,2020-03-23,2.0
+Ghana,2020-03-24,2.0
+Ghana,2020-03-25,4.0
+Ghana,2020-03-26,4.0
+Ghana,2020-03-27,4.0
+Ghana,2020-03-28,5.0
+Ghana,2020-03-29,5.0
+Ghana,2020-03-30,5.0
+Ghana,2020-03-31,5.0
+Ghana,2020-04-01,5.0
+Ghana,2020-04-02,5.0
+Ghana,2020-04-03,5.0
+Ghana,2020-04-04,5.0
+Ghana,2020-04-05,5.0
+Greece,2020-03-11,1.0
+Greece,2020-03-12,1.0
+Greece,2020-03-13,1.0
+Greece,2020-03-14,3.0
+Greece,2020-03-15,4.0
+Greece,2020-03-16,4.0
+Greece,2020-03-17,5.0
+Greece,2020-03-18,5.0
+Greece,2020-03-19,6.0
+Greece,2020-03-20,6.0
+Greece,2020-03-21,13.0
+Greece,2020-03-22,15.0
+Greece,2020-03-23,17.0
+Greece,2020-03-24,20.0
+Greece,2020-03-25,22.0
+Greece,2020-03-26,26.0
+Greece,2020-03-27,28.0
+Greece,2020-03-28,32.0
+Greece,2020-03-29,38.0
+Greece,2020-03-30,43.0
+Greece,2020-03-31,49.0
+Greece,2020-04-01,50.0
+Greece,2020-04-02,53.0
+Greece,2020-04-03,63.0
+Greece,2020-04-04,68.0
+Greece,2020-04-05,73.0
+Guatemala,2020-03-16,1.0
+Guatemala,2020-03-17,1.0
+Guatemala,2020-03-18,1.0
+Guatemala,2020-03-19,1.0
+Guatemala,2020-03-20,1.0
+Guatemala,2020-03-21,1.0
+Guatemala,2020-03-22,1.0
+Guatemala,2020-03-23,1.0
+Guatemala,2020-03-24,1.0
+Guatemala,2020-03-25,1.0
+Guatemala,2020-03-26,1.0
+Guatemala,2020-03-27,1.0
+Guatemala,2020-03-28,1.0
+Guatemala,2020-03-29,1.0
+Guatemala,2020-03-30,1.0
+Guatemala,2020-03-31,1.0
+Guatemala,2020-04-01,1.0
+Guatemala,2020-04-02,1.0
+Guatemala,2020-04-03,1.0
+Guatemala,2020-04-04,2.0
+Guatemala,2020-04-05,2.0
+Guyana,2020-03-12,1.0
+Guyana,2020-03-13,1.0
+Guyana,2020-03-14,1.0
+Guyana,2020-03-15,1.0
+Guyana,2020-03-16,1.0
+Guyana,2020-03-17,1.0
+Guyana,2020-03-18,1.0
+Guyana,2020-03-19,1.0
+Guyana,2020-03-20,1.0
+Guyana,2020-03-21,1.0
+Guyana,2020-03-22,1.0
+Guyana,2020-03-23,1.0
+Guyana,2020-03-24,1.0
+Guyana,2020-03-25,1.0
+Guyana,2020-03-26,1.0
+Guyana,2020-03-27,1.0
+Guyana,2020-03-28,1.0
+Guyana,2020-03-29,1.0
+Guyana,2020-03-30,1.0
+Guyana,2020-03-31,2.0
+Guyana,2020-04-01,2.0
+Guyana,2020-04-02,4.0
+Guyana,2020-04-03,4.0
+Guyana,2020-04-04,4.0
+Guyana,2020-04-05,4.0
+Haiti,2020-04-05,1.0
+Honduras,2020-03-26,1.0
+Honduras,2020-03-27,1.0
+Honduras,2020-03-28,1.0
+Honduras,2020-03-29,3.0
+Honduras,2020-03-30,7.0
+Honduras,2020-03-31,7.0
+Honduras,2020-04-01,10.0
+Honduras,2020-04-02,14.0
+Honduras,2020-04-03,15.0
+Honduras,2020-04-04,15.0
+Honduras,2020-04-05,22.0
+Hungary,2020-03-15,1.0
+Hungary,2020-03-16,1.0
+Hungary,2020-03-17,1.0
+Hungary,2020-03-18,1.0
+Hungary,2020-03-19,1.0
+Hungary,2020-03-20,3.0
+Hungary,2020-03-21,4.0
+Hungary,2020-03-22,6.0
+Hungary,2020-03-23,7.0
+Hungary,2020-03-24,9.0
+Hungary,2020-03-25,10.0
+Hungary,2020-03-26,10.0
+Hungary,2020-03-27,10.0
+Hungary,2020-03-28,11.0
+Hungary,2020-03-29,13.0
+Hungary,2020-03-30,15.0
+Hungary,2020-03-31,16.0
+Hungary,2020-04-01,20.0
+Hungary,2020-04-02,21.0
+Hungary,2020-04-03,26.0
+Hungary,2020-04-04,32.0
+Hungary,2020-04-05,34.0
+Iceland,2020-03-15,5.0
+Iceland,2020-03-17,1.0
+Iceland,2020-03-18,1.0
+Iceland,2020-03-19,1.0
+Iceland,2020-03-21,1.0
+Iceland,2020-03-22,1.0
+Iceland,2020-03-23,1.0
+Iceland,2020-03-24,2.0
+Iceland,2020-03-25,2.0
+Iceland,2020-03-26,2.0
+Iceland,2020-03-27,2.0
+Iceland,2020-03-28,2.0
+Iceland,2020-03-29,2.0
+Iceland,2020-03-30,2.0
+Iceland,2020-03-31,2.0
+Iceland,2020-04-01,2.0
+Iceland,2020-04-02,4.0
+Iceland,2020-04-03,4.0
+Iceland,2020-04-04,4.0
+Iceland,2020-04-05,4.0
+India,2020-03-11,1.0
+India,2020-03-12,1.0
+India,2020-03-13,2.0
+India,2020-03-14,2.0
+India,2020-03-15,2.0
+India,2020-03-16,2.0
+India,2020-03-17,3.0
+India,2020-03-18,3.0
+India,2020-03-19,4.0
+India,2020-03-20,5.0
+India,2020-03-21,4.0
+India,2020-03-22,7.0
+India,2020-03-23,10.0
+India,2020-03-24,10.0
+India,2020-03-25,12.0
+India,2020-03-26,20.0
+India,2020-03-27,20.0
+India,2020-03-28,24.0
+India,2020-03-29,27.0
+India,2020-03-30,32.0
+India,2020-03-31,35.0
+India,2020-04-01,58.0
+India,2020-04-02,72.0
+India,2020-04-03,72.0
+India,2020-04-04,86.0
+India,2020-04-05,99.0
+Indonesia,2020-03-11,1.0
+Indonesia,2020-03-12,1.0
+Indonesia,2020-03-13,4.0
+Indonesia,2020-03-14,5.0
+Indonesia,2020-03-15,5.0
+Indonesia,2020-03-16,5.0
+Indonesia,2020-03-17,5.0
+Indonesia,2020-03-18,19.0
+Indonesia,2020-03-19,25.0
+Indonesia,2020-03-20,32.0
+Indonesia,2020-03-21,38.0
+Indonesia,2020-03-22,48.0
+Indonesia,2020-03-23,49.0
+Indonesia,2020-03-24,55.0
+Indonesia,2020-03-25,58.0
+Indonesia,2020-03-26,78.0
+Indonesia,2020-03-27,87.0
+Indonesia,2020-03-28,102.0
+Indonesia,2020-03-29,114.0
+Indonesia,2020-03-30,122.0
+Indonesia,2020-03-31,136.0
+Indonesia,2020-04-01,157.0
+Indonesia,2020-04-02,170.0
+Indonesia,2020-04-03,181.0
+Indonesia,2020-04-04,191.0
+Indonesia,2020-04-05,198.0
+Iran,2020-02-19,2.0
+Iran,2020-02-20,2.0
+Iran,2020-02-21,4.0
+Iran,2020-02-22,5.0
+Iran,2020-02-23,8.0
+Iran,2020-02-24,12.0
+Iran,2020-02-25,16.0
+Iran,2020-02-26,19.0
+Iran,2020-02-27,26.0
+Iran,2020-02-28,34.0
+Iran,2020-02-29,43.0
+Iran,2020-03-01,54.0
+Iran,2020-03-02,66.0
+Iran,2020-03-03,77.0
+Iran,2020-03-04,92.0
+Iran,2020-03-05,107.0
+Iran,2020-03-06,124.0
+Iran,2020-03-07,145.0
+Iran,2020-03-08,194.0
+Iran,2020-03-09,237.0
+Iran,2020-03-10,291.0
+Iran,2020-03-11,354.0
+Iran,2020-03-12,429.0
+Iran,2020-03-13,514.0
+Iran,2020-03-14,611.0
+Iran,2020-03-15,724.0
+Iran,2020-03-16,853.0
+Iran,2020-03-17,988.0
+Iran,2020-03-18,1135.0
+Iran,2020-03-19,1284.0
+Iran,2020-03-20,1433.0
+Iran,2020-03-21,1556.0
+Iran,2020-03-22,1685.0
+Iran,2020-03-23,1812.0
+Iran,2020-03-24,1934.0
+Iran,2020-03-25,2077.0
+Iran,2020-03-26,2234.0
+Iran,2020-03-27,2378.0
+Iran,2020-03-28,2517.0
+Iran,2020-03-29,2640.0
+Iran,2020-03-30,2757.0
+Iran,2020-03-31,2898.0
+Iran,2020-04-01,3036.0
+Iran,2020-04-02,3160.0
+Iran,2020-04-03,3294.0
+Iran,2020-04-04,3452.0
+Iran,2020-04-05,3603.0
+Iraq,2020-03-04,2.0
+Iraq,2020-03-05,2.0
+Iraq,2020-03-06,3.0
+Iraq,2020-03-07,4.0
+Iraq,2020-03-08,6.0
+Iraq,2020-03-09,6.0
+Iraq,2020-03-10,7.0
+Iraq,2020-03-11,7.0
+Iraq,2020-03-12,8.0
+Iraq,2020-03-13,9.0
+Iraq,2020-03-14,10.0
+Iraq,2020-03-15,10.0
+Iraq,2020-03-16,10.0
+Iraq,2020-03-17,11.0
+Iraq,2020-03-18,12.0
+Iraq,2020-03-19,13.0
+Iraq,2020-03-20,17.0
+Iraq,2020-03-21,17.0
+Iraq,2020-03-22,20.0
+Iraq,2020-03-23,23.0
+Iraq,2020-03-24,27.0
+Iraq,2020-03-25,29.0
+Iraq,2020-03-26,36.0
+Iraq,2020-03-27,40.0
+Iraq,2020-03-28,42.0
+Iraq,2020-03-29,42.0
+Iraq,2020-03-30,46.0
+Iraq,2020-03-31,50.0
+Iraq,2020-04-01,52.0
+Iraq,2020-04-02,54.0
+Iraq,2020-04-03,54.0
+Iraq,2020-04-04,56.0
+Iraq,2020-04-05,61.0
+Ireland,2020-03-11,1.0
+Ireland,2020-03-12,1.0
+Ireland,2020-03-13,1.0
+Ireland,2020-03-14,2.0
+Ireland,2020-03-15,2.0
+Ireland,2020-03-16,2.0
+Ireland,2020-03-17,2.0
+Ireland,2020-03-18,2.0
+Ireland,2020-03-19,3.0
+Ireland,2020-03-20,3.0
+Ireland,2020-03-21,3.0
+Ireland,2020-03-22,4.0
+Ireland,2020-03-23,6.0
+Ireland,2020-03-24,7.0
+Ireland,2020-03-25,9.0
+Ireland,2020-03-26,19.0
+Ireland,2020-03-27,22.0
+Ireland,2020-03-28,36.0
+Ireland,2020-03-29,46.0
+Ireland,2020-03-30,54.0
+Ireland,2020-03-31,71.0
+Ireland,2020-04-01,85.0
+Ireland,2020-04-02,98.0
+Ireland,2020-04-03,120.0
+Ireland,2020-04-04,137.0
+Ireland,2020-04-05,158.0
+Israel,2020-03-21,1.0
+Israel,2020-03-22,1.0
+Israel,2020-03-23,1.0
+Israel,2020-03-24,3.0
+Israel,2020-03-25,5.0
+Israel,2020-03-26,8.0
+Israel,2020-03-27,12.0
+Israel,2020-03-28,12.0
+Israel,2020-03-29,15.0
+Israel,2020-03-30,16.0
+Israel,2020-03-31,20.0
+Israel,2020-04-01,26.0
+Israel,2020-04-02,36.0
+Israel,2020-04-03,40.0
+Israel,2020-04-04,44.0
+Israel,2020-04-05,49.0
+Italy,2020-02-21,1.0
+Italy,2020-02-22,2.0
+Italy,2020-02-23,3.0
+Italy,2020-02-24,7.0
+Italy,2020-02-25,10.0
+Italy,2020-02-26,12.0
+Italy,2020-02-27,17.0
+Italy,2020-02-28,21.0
+Italy,2020-02-29,29.0
+Italy,2020-03-01,34.0
+Italy,2020-03-02,52.0
+Italy,2020-03-03,79.0
+Italy,2020-03-04,107.0
+Italy,2020-03-05,148.0
+Italy,2020-03-06,197.0
+Italy,2020-03-07,233.0
+Italy,2020-03-08,366.0
+Italy,2020-03-09,463.0
+Italy,2020-03-10,631.0
+Italy,2020-03-11,827.0
+Italy,2020-03-12,827.0
+Italy,2020-03-13,1266.0
+Italy,2020-03-14,1441.0
+Italy,2020-03-15,1809.0
+Italy,2020-03-16,2158.0
+Italy,2020-03-17,2503.0
+Italy,2020-03-18,2978.0
+Italy,2020-03-19,3405.0
+Italy,2020-03-20,4032.0
+Italy,2020-03-21,4825.0
+Italy,2020-03-22,5476.0
+Italy,2020-03-23,6077.0
+Italy,2020-03-24,6820.0
+Italy,2020-03-25,7503.0
+Italy,2020-03-26,8215.0
+Italy,2020-03-27,9134.0
+Italy,2020-03-28,10023.0
+Italy,2020-03-29,10779.0
+Italy,2020-03-30,11591.0
+Italy,2020-03-31,12428.0
+Italy,2020-04-01,13155.0
+Italy,2020-04-02,13915.0
+Italy,2020-04-03,14681.0
+Italy,2020-04-04,15362.0
+Italy,2020-04-05,15887.0
+Jamaica,2020-03-19,1.0
+Jamaica,2020-03-20,1.0
+Jamaica,2020-03-21,1.0
+Jamaica,2020-03-22,1.0
+Jamaica,2020-03-23,1.0
+Jamaica,2020-03-24,1.0
+Jamaica,2020-03-25,1.0
+Jamaica,2020-03-26,1.0
+Jamaica,2020-03-27,1.0
+Jamaica,2020-03-28,1.0
+Jamaica,2020-03-29,1.0
+Jamaica,2020-03-30,1.0
+Jamaica,2020-03-31,1.0
+Jamaica,2020-04-01,3.0
+Jamaica,2020-04-02,3.0
+Jamaica,2020-04-03,3.0
+Jamaica,2020-04-04,3.0
+Jamaica,2020-04-05,3.0
+Japan,2020-02-13,1.0
+Japan,2020-02-14,1.0
+Japan,2020-02-15,1.0
+Japan,2020-02-16,1.0
+Japan,2020-02-17,1.0
+Japan,2020-02-18,1.0
+Japan,2020-02-19,1.0
+Japan,2020-02-20,1.0
+Japan,2020-02-21,1.0
+Japan,2020-02-22,1.0
+Japan,2020-02-23,1.0
+Japan,2020-02-24,1.0
+Japan,2020-02-25,1.0
+Japan,2020-02-26,2.0
+Japan,2020-02-27,4.0
+Japan,2020-02-28,4.0
+Japan,2020-02-29,5.0
+Japan,2020-03-01,6.0
+Japan,2020-03-02,6.0
+Japan,2020-03-03,6.0
+Japan,2020-03-04,6.0
+Japan,2020-03-05,6.0
+Japan,2020-03-06,6.0
+Japan,2020-03-07,6.0
+Japan,2020-03-08,6.0
+Japan,2020-03-09,10.0
+Japan,2020-03-10,10.0
+Japan,2020-03-11,15.0
+Japan,2020-03-12,16.0
+Japan,2020-03-13,19.0
+Japan,2020-03-14,22.0
+Japan,2020-03-15,22.0
+Japan,2020-03-16,27.0
+Japan,2020-03-17,29.0
+Japan,2020-03-18,29.0
+Japan,2020-03-19,29.0
+Japan,2020-03-20,33.0
+Japan,2020-03-21,35.0
+Japan,2020-03-22,41.0
+Japan,2020-03-23,42.0
+Japan,2020-03-24,43.0
+Japan,2020-03-25,45.0
+Japan,2020-03-26,47.0
+Japan,2020-03-27,49.0
+Japan,2020-03-28,52.0
+Japan,2020-03-29,54.0
+Japan,2020-03-30,54.0
+Japan,2020-03-31,56.0
+Japan,2020-04-01,57.0
+Japan,2020-04-02,62.0
+Japan,2020-04-03,63.0
+Japan,2020-04-04,77.0
+Japan,2020-04-05,77.0
+Jordan,2020-03-27,1.0
+Jordan,2020-03-28,1.0
+Jordan,2020-03-29,3.0
+Jordan,2020-03-30,5.0
+Jordan,2020-03-31,5.0
+Jordan,2020-04-01,5.0
+Jordan,2020-04-02,5.0
+Jordan,2020-04-03,5.0
+Jordan,2020-04-04,5.0
+Jordan,2020-04-05,5.0
+Kazakhstan,2020-03-20,3.0
+Kazakhstan,2020-03-26,1.0
+Kazakhstan,2020-03-27,1.0
+Kazakhstan,2020-03-28,1.0
+Kazakhstan,2020-03-29,1.0
+Kazakhstan,2020-03-30,1.0
+Kazakhstan,2020-03-31,2.0
+Kazakhstan,2020-04-01,3.0
+Kazakhstan,2020-04-02,3.0
+Kazakhstan,2020-04-03,6.0
+Kazakhstan,2020-04-04,5.0
+Kazakhstan,2020-04-05,6.0
+Kenya,2020-03-26,1.0
+Kenya,2020-03-27,1.0
+Kenya,2020-03-28,1.0
+Kenya,2020-03-29,1.0
+Kenya,2020-03-30,1.0
+Kenya,2020-03-31,1.0
+Kenya,2020-04-01,1.0
+Kenya,2020-04-02,3.0
+Kenya,2020-04-03,4.0
+Kenya,2020-04-04,4.0
+Kenya,2020-04-05,4.0
+"Korea, South",2020-02-20,1.0
+"Korea, South",2020-02-21,2.0
+"Korea, South",2020-02-22,2.0
+"Korea, South",2020-02-23,6.0
+"Korea, South",2020-02-24,8.0
+"Korea, South",2020-02-25,10.0
+"Korea, South",2020-02-26,12.0
+"Korea, South",2020-02-27,13.0
+"Korea, South",2020-02-28,13.0
+"Korea, South",2020-02-29,16.0
+"Korea, South",2020-03-01,17.0
+"Korea, South",2020-03-02,28.0
+"Korea, South",2020-03-03,28.0
+"Korea, South",2020-03-04,35.0
+"Korea, South",2020-03-05,35.0
+"Korea, South",2020-03-06,42.0
+"Korea, South",2020-03-07,44.0
+"Korea, South",2020-03-08,50.0
+"Korea, South",2020-03-09,53.0
+"Korea, South",2020-03-10,54.0
+"Korea, South",2020-03-11,60.0
+"Korea, South",2020-03-12,66.0
+"Korea, South",2020-03-13,66.0
+"Korea, South",2020-03-14,72.0
+"Korea, South",2020-03-15,75.0
+"Korea, South",2020-03-16,75.0
+"Korea, South",2020-03-17,81.0
+"Korea, South",2020-03-18,84.0
+"Korea, South",2020-03-19,91.0
+"Korea, South",2020-03-20,94.0
+"Korea, South",2020-03-21,102.0
+"Korea, South",2020-03-22,111.0
+"Korea, South",2020-03-23,111.0
+"Korea, South",2020-03-24,120.0
+"Korea, South",2020-03-25,126.0
+"Korea, South",2020-03-26,131.0
+"Korea, South",2020-03-27,139.0
+"Korea, South",2020-03-28,144.0
+"Korea, South",2020-03-29,152.0
+"Korea, South",2020-03-30,158.0
+"Korea, South",2020-03-31,162.0
+"Korea, South",2020-04-01,165.0
+"Korea, South",2020-04-02,169.0
+"Korea, South",2020-04-03,174.0
+"Korea, South",2020-04-04,177.0
+"Korea, South",2020-04-05,183.0
+Kosovo,2020-03-26,1.0
+Kosovo,2020-03-27,1.0
+Kosovo,2020-03-28,1.0
+Kosovo,2020-03-29,1.0
+Kosovo,2020-03-30,1.0
+Kosovo,2020-03-31,1.0
+Kosovo,2020-04-01,1.0
+Kosovo,2020-04-02,1.0
+Kosovo,2020-04-03,1.0
+Kosovo,2020-04-04,1.0
+Kosovo,2020-04-05,1.0
+Kuwait,2020-04-04,1.0
+Kuwait,2020-04-05,1.0
+Kyrgyzstan,2020-04-03,1.0
+Kyrgyzstan,2020-04-04,1.0
+Kyrgyzstan,2020-04-05,1.0
+Latvia,2020-04-03,1.0
+Latvia,2020-04-04,1.0
+Latvia,2020-04-05,1.0
+Lebanon,2020-03-10,1.0
+Lebanon,2020-03-11,3.0
+Lebanon,2020-03-12,3.0
+Lebanon,2020-03-13,3.0
+Lebanon,2020-03-14,3.0
+Lebanon,2020-03-15,3.0
+Lebanon,2020-03-16,3.0
+Lebanon,2020-03-17,3.0
+Lebanon,2020-03-18,3.0
+Lebanon,2020-03-19,4.0
+Lebanon,2020-03-20,4.0
+Lebanon,2020-03-21,4.0
+Lebanon,2020-03-22,4.0
+Lebanon,2020-03-23,4.0
+Lebanon,2020-03-24,4.0
+Lebanon,2020-03-25,6.0
+Lebanon,2020-03-26,6.0
+Lebanon,2020-03-27,8.0
+Lebanon,2020-03-28,8.0
+Lebanon,2020-03-29,10.0
+Lebanon,2020-03-30,11.0
+Lebanon,2020-03-31,12.0
+Lebanon,2020-04-01,14.0
+Lebanon,2020-04-02,16.0
+Lebanon,2020-04-03,17.0
+Lebanon,2020-04-04,17.0
+Lebanon,2020-04-05,18.0
+Liberia,2020-04-04,1.0
+Liberia,2020-04-05,3.0
+Libya,2020-04-02,1.0
+Libya,2020-04-03,1.0
+Libya,2020-04-04,1.0
+Libya,2020-04-05,1.0
+Liechtenstein,2020-04-04,1.0
+Liechtenstein,2020-04-05,1.0
+Lithuania,2020-03-21,1.0
+Lithuania,2020-03-22,1.0
+Lithuania,2020-03-23,1.0
+Lithuania,2020-03-24,2.0
+Lithuania,2020-03-25,4.0
+Lithuania,2020-03-26,4.0
+Lithuania,2020-03-27,5.0
+Lithuania,2020-03-28,7.0
+Lithuania,2020-03-29,7.0
+Lithuania,2020-03-30,7.0
+Lithuania,2020-03-31,8.0
+Lithuania,2020-04-01,8.0
+Lithuania,2020-04-02,9.0
+Lithuania,2020-04-03,9.0
+Lithuania,2020-04-04,11.0
+Lithuania,2020-04-05,13.0
+Luxembourg,2020-03-14,1.0
+Luxembourg,2020-03-15,1.0
+Luxembourg,2020-03-16,1.0
+Luxembourg,2020-03-17,1.0
+Luxembourg,2020-03-18,2.0
+Luxembourg,2020-03-19,4.0
+Luxembourg,2020-03-20,4.0
+Luxembourg,2020-03-21,8.0
+Luxembourg,2020-03-22,8.0
+Luxembourg,2020-03-23,8.0
+Luxembourg,2020-03-24,8.0
+Luxembourg,2020-03-25,8.0
+Luxembourg,2020-03-26,9.0
+Luxembourg,2020-03-27,15.0
+Luxembourg,2020-03-28,18.0
+Luxembourg,2020-03-29,21.0
+Luxembourg,2020-03-30,22.0
+Luxembourg,2020-03-31,23.0
+Luxembourg,2020-04-01,29.0
+Luxembourg,2020-04-02,30.0
+Luxembourg,2020-04-03,31.0
+Luxembourg,2020-04-04,31.0
+Luxembourg,2020-04-05,36.0
+MS Zaandam,2020-04-01,2.0
+MS Zaandam,2020-04-02,2.0
+MS Zaandam,2020-04-03,2.0
+MS Zaandam,2020-04-04,2.0
+MS Zaandam,2020-04-05,2.0
+Malaysia,2020-03-17,2.0
+Malaysia,2020-03-18,2.0
+Malaysia,2020-03-19,2.0
+Malaysia,2020-03-20,3.0
+Malaysia,2020-03-21,4.0
+Malaysia,2020-03-22,10.0
+Malaysia,2020-03-23,14.0
+Malaysia,2020-03-24,16.0
+Malaysia,2020-03-25,20.0
+Malaysia,2020-03-26,23.0
+Malaysia,2020-03-27,26.0
+Malaysia,2020-03-28,27.0
+Malaysia,2020-03-29,35.0
+Malaysia,2020-03-30,37.0
+Malaysia,2020-03-31,43.0
+Malaysia,2020-04-01,45.0
+Malaysia,2020-04-02,50.0
+Malaysia,2020-04-03,53.0
+Malaysia,2020-04-04,57.0
+Malaysia,2020-04-05,61.0
+Mali,2020-03-29,1.0
+Mali,2020-03-30,2.0
+Mali,2020-03-31,2.0
+Mali,2020-04-01,3.0
+Mali,2020-04-02,3.0
+Mali,2020-04-03,3.0
+Mali,2020-04-04,3.0
+Mali,2020-04-05,5.0
+Mauritania,2020-03-30,1.0
+Mauritania,2020-03-31,1.0
+Mauritania,2020-04-01,1.0
+Mauritania,2020-04-02,1.0
+Mauritania,2020-04-03,1.0
+Mauritania,2020-04-04,1.0
+Mauritania,2020-04-05,1.0
+Mauritius,2020-03-21,1.0
+Mauritius,2020-03-22,2.0
+Mauritius,2020-03-23,2.0
+Mauritius,2020-03-24,2.0
+Mauritius,2020-03-25,2.0
+Mauritius,2020-03-26,2.0
+Mauritius,2020-03-27,2.0
+Mauritius,2020-03-28,2.0
+Mauritius,2020-03-29,3.0
+Mauritius,2020-03-30,3.0
+Mauritius,2020-03-31,5.0
+Mauritius,2020-04-01,6.0
+Mauritius,2020-04-02,7.0
+Mauritius,2020-04-03,7.0
+Mauritius,2020-04-04,7.0
+Mauritius,2020-04-05,7.0
+Mexico,2020-03-19,1.0
+Mexico,2020-03-20,1.0
+Mexico,2020-03-21,2.0
+Mexico,2020-03-22,2.0
+Mexico,2020-03-23,3.0
+Mexico,2020-03-24,4.0
+Mexico,2020-03-25,5.0
+Mexico,2020-03-26,6.0
+Mexico,2020-03-27,8.0
+Mexico,2020-03-28,12.0
+Mexico,2020-03-29,16.0
+Mexico,2020-03-30,20.0
+Mexico,2020-03-31,28.0
+Mexico,2020-04-01,29.0
+Mexico,2020-04-02,37.0
+Mexico,2020-04-03,50.0
+Mexico,2020-04-04,60.0
+Mexico,2020-04-05,79.0
+Moldova,2020-03-18,1.0
+Moldova,2020-03-19,1.0
+Moldova,2020-03-20,1.0
+Moldova,2020-03-21,1.0
+Moldova,2020-03-22,1.0
+Moldova,2020-03-23,1.0
+Moldova,2020-03-24,1.0
+Moldova,2020-03-25,1.0
+Moldova,2020-03-26,1.0
+Moldova,2020-03-27,2.0
+Moldova,2020-03-28,2.0
+Moldova,2020-03-29,2.0
+Moldova,2020-03-30,2.0
+Moldova,2020-03-31,4.0
+Moldova,2020-04-01,5.0
+Moldova,2020-04-02,6.0
+Moldova,2020-04-03,8.0
+Moldova,2020-04-04,12.0
+Moldova,2020-04-05,15.0
+Monaco,2020-03-29,1.0
+Monaco,2020-03-30,1.0
+Monaco,2020-03-31,1.0
+Monaco,2020-04-01,1.0
+Monaco,2020-04-02,1.0
+Monaco,2020-04-03,1.0
+Monaco,2020-04-04,1.0
+Monaco,2020-04-05,1.0
+Montenegro,2020-03-23,1.0
+Montenegro,2020-03-24,1.0
+Montenegro,2020-03-25,1.0
+Montenegro,2020-03-26,1.0
+Montenegro,2020-03-27,1.0
+Montenegro,2020-03-28,1.0
+Montenegro,2020-03-29,1.0
+Montenegro,2020-03-30,1.0
+Montenegro,2020-03-31,2.0
+Montenegro,2020-04-01,2.0
+Montenegro,2020-04-02,2.0
+Montenegro,2020-04-03,2.0
+Montenegro,2020-04-04,2.0
+Montenegro,2020-04-05,2.0
+Morocco,2020-03-10,1.0
+Morocco,2020-03-11,1.0
+Morocco,2020-03-12,1.0
+Morocco,2020-03-13,1.0
+Morocco,2020-03-14,1.0
+Morocco,2020-03-15,1.0
+Morocco,2020-03-16,1.0
+Morocco,2020-03-17,2.0
+Morocco,2020-03-18,2.0
+Morocco,2020-03-19,2.0
+Morocco,2020-03-20,3.0
+Morocco,2020-03-21,3.0
+Morocco,2020-03-22,4.0
+Morocco,2020-03-23,4.0
+Morocco,2020-03-24,5.0
+Morocco,2020-03-25,6.0
+Morocco,2020-03-26,11.0
+Morocco,2020-03-27,23.0
+Morocco,2020-03-28,25.0
+Morocco,2020-03-29,26.0
+Morocco,2020-03-30,33.0
+Morocco,2020-03-31,36.0
+Morocco,2020-04-01,39.0
+Morocco,2020-04-02,44.0
+Morocco,2020-04-03,48.0
+Morocco,2020-04-04,59.0
+Morocco,2020-04-05,70.0
+Netherlands,2020-03-06,1.0
+Netherlands,2020-03-07,1.0
+Netherlands,2020-03-08,3.0
+Netherlands,2020-03-09,3.0
+Netherlands,2020-03-10,4.0
+Netherlands,2020-03-11,5.0
+Netherlands,2020-03-12,5.0
+Netherlands,2020-03-13,10.0
+Netherlands,2020-03-14,12.0
+Netherlands,2020-03-15,20.0
+Netherlands,2020-03-16,24.0
+Netherlands,2020-03-17,43.0
+Netherlands,2020-03-18,58.0
+Netherlands,2020-03-19,77.0
+Netherlands,2020-03-20,107.0
+Netherlands,2020-03-21,137.0
+Netherlands,2020-03-22,180.0
+Netherlands,2020-03-23,214.0
+Netherlands,2020-03-24,277.0
+Netherlands,2020-03-25,357.0
+Netherlands,2020-03-26,435.0
+Netherlands,2020-03-27,547.0
+Netherlands,2020-03-28,640.0
+Netherlands,2020-03-29,772.0
+Netherlands,2020-03-30,865.0
+Netherlands,2020-03-31,1040.0
+Netherlands,2020-04-01,1175.0
+Netherlands,2020-04-02,1341.0
+Netherlands,2020-04-03,1490.0
+Netherlands,2020-04-04,1656.0
+Netherlands,2020-04-05,1771.0
+New Zealand,2020-03-29,1.0
+New Zealand,2020-03-30,1.0
+New Zealand,2020-03-31,1.0
+New Zealand,2020-04-01,1.0
+New Zealand,2020-04-02,1.0
+New Zealand,2020-04-03,1.0
+New Zealand,2020-04-04,1.0
+New Zealand,2020-04-05,1.0
+Nicaragua,2020-03-27,1.0
+Nicaragua,2020-03-28,1.0
+Nicaragua,2020-03-29,1.0
+Nicaragua,2020-03-30,1.0
+Nicaragua,2020-03-31,1.0
+Nicaragua,2020-04-01,1.0
+Nicaragua,2020-04-02,1.0
+Nicaragua,2020-04-03,1.0
+Nicaragua,2020-04-04,1.0
+Nicaragua,2020-04-05,1.0
+Niger,2020-03-25,1.0
+Niger,2020-03-26,1.0
+Niger,2020-03-27,1.0
+Niger,2020-03-28,1.0
+Niger,2020-03-29,1.0
+Niger,2020-03-30,3.0
+Niger,2020-03-31,3.0
+Niger,2020-04-01,5.0
+Niger,2020-04-02,5.0
+Niger,2020-04-03,5.0
+Niger,2020-04-04,8.0
+Niger,2020-04-05,10.0
+Nigeria,2020-03-23,1.0
+Nigeria,2020-03-24,1.0
+Nigeria,2020-03-25,1.0
+Nigeria,2020-03-26,1.0
+Nigeria,2020-03-27,1.0
+Nigeria,2020-03-28,1.0
+Nigeria,2020-03-29,1.0
+Nigeria,2020-03-30,2.0
+Nigeria,2020-03-31,2.0
+Nigeria,2020-04-01,2.0
+Nigeria,2020-04-02,2.0
+Nigeria,2020-04-03,4.0
+Nigeria,2020-04-04,4.0
+Nigeria,2020-04-05,5.0
+North Macedonia,2020-03-22,1.0
+North Macedonia,2020-03-23,2.0
+North Macedonia,2020-03-24,2.0
+North Macedonia,2020-03-25,3.0
+North Macedonia,2020-03-26,3.0
+North Macedonia,2020-03-27,3.0
+North Macedonia,2020-03-28,4.0
+North Macedonia,2020-03-29,6.0
+North Macedonia,2020-03-30,7.0
+North Macedonia,2020-03-31,9.0
+North Macedonia,2020-04-01,11.0
+North Macedonia,2020-04-02,11.0
+North Macedonia,2020-04-03,12.0
+North Macedonia,2020-04-04,17.0
+North Macedonia,2020-04-05,18.0
+Norway,2020-03-14,3.0
+Norway,2020-03-15,3.0
+Norway,2020-03-16,3.0
+Norway,2020-03-17,3.0
+Norway,2020-03-18,6.0
+Norway,2020-03-19,7.0
+Norway,2020-03-20,7.0
+Norway,2020-03-21,7.0
+Norway,2020-03-22,7.0
+Norway,2020-03-23,10.0
+Norway,2020-03-24,12.0
+Norway,2020-03-25,14.0
+Norway,2020-03-26,14.0
+Norway,2020-03-27,19.0
+Norway,2020-03-28,23.0
+Norway,2020-03-29,25.0
+Norway,2020-03-30,32.0
+Norway,2020-03-31,39.0
+Norway,2020-04-01,44.0
+Norway,2020-04-02,50.0
+Norway,2020-04-03,59.0
+Norway,2020-04-04,62.0
+Norway,2020-04-05,71.0
+Oman,2020-03-31,1.0
+Oman,2020-04-01,1.0
+Oman,2020-04-02,1.0
+Oman,2020-04-03,1.0
+Oman,2020-04-04,2.0
+Oman,2020-04-05,2.0
+Pakistan,2020-03-19,2.0
+Pakistan,2020-03-20,3.0
+Pakistan,2020-03-21,3.0
+Pakistan,2020-03-22,5.0
+Pakistan,2020-03-23,6.0
+Pakistan,2020-03-24,7.0
+Pakistan,2020-03-25,8.0
+Pakistan,2020-03-26,9.0
+Pakistan,2020-03-27,11.0
+Pakistan,2020-03-28,12.0
+Pakistan,2020-03-29,14.0
+Pakistan,2020-03-30,21.0
+Pakistan,2020-03-31,26.0
+Pakistan,2020-04-01,27.0
+Pakistan,2020-04-02,34.0
+Pakistan,2020-04-03,40.0
+Pakistan,2020-04-04,41.0
+Pakistan,2020-04-05,47.0
+Panama,2020-03-11,1.0
+Panama,2020-03-12,1.0
+Panama,2020-03-13,1.0
+Panama,2020-03-14,1.0
+Panama,2020-03-15,1.0
+Panama,2020-03-16,1.0
+Panama,2020-03-17,1.0
+Panama,2020-03-18,1.0
+Panama,2020-03-19,1.0
+Panama,2020-03-20,1.0
+Panama,2020-03-21,1.0
+Panama,2020-03-22,3.0
+Panama,2020-03-23,6.0
+Panama,2020-03-24,6.0
+Panama,2020-03-25,8.0
+Panama,2020-03-26,8.0
+Panama,2020-03-27,9.0
+Panama,2020-03-28,14.0
+Panama,2020-03-29,17.0
+Panama,2020-03-30,24.0
+Panama,2020-03-31,30.0
+Panama,2020-04-01,30.0
+Panama,2020-04-02,32.0
+Panama,2020-04-03,37.0
+Panama,2020-04-04,41.0
+Panama,2020-04-05,46.0
+Paraguay,2020-03-21,1.0
+Paraguay,2020-03-22,1.0
+Paraguay,2020-03-23,1.0
+Paraguay,2020-03-24,2.0
+Paraguay,2020-03-25,3.0
+Paraguay,2020-03-26,3.0
+Paraguay,2020-03-27,3.0
+Paraguay,2020-03-28,3.0
+Paraguay,2020-03-29,3.0
+Paraguay,2020-03-30,3.0
+Paraguay,2020-03-31,3.0
+Paraguay,2020-04-01,3.0
+Paraguay,2020-04-02,3.0
+Paraguay,2020-04-03,3.0
+Paraguay,2020-04-04,3.0
+Paraguay,2020-04-05,3.0
+Peru,2020-03-20,3.0
+Peru,2020-03-21,5.0
+Peru,2020-03-22,5.0
+Peru,2020-03-23,5.0
+Peru,2020-03-24,7.0
+Peru,2020-03-25,9.0
+Peru,2020-03-26,9.0
+Peru,2020-03-27,11.0
+Peru,2020-03-28,16.0
+Peru,2020-03-29,18.0
+Peru,2020-03-30,24.0
+Peru,2020-03-31,30.0
+Peru,2020-04-01,38.0
+Peru,2020-04-02,55.0
+Peru,2020-04-03,61.0
+Peru,2020-04-04,73.0
+Peru,2020-04-05,83.0
+Philippines,2020-02-02,1.0
+Philippines,2020-02-03,1.0
+Philippines,2020-02-04,1.0
+Philippines,2020-02-05,1.0
+Philippines,2020-02-06,1.0
+Philippines,2020-02-07,1.0
+Philippines,2020-02-08,1.0
+Philippines,2020-02-09,1.0
+Philippines,2020-02-10,1.0
+Philippines,2020-02-11,1.0
+Philippines,2020-02-12,1.0
+Philippines,2020-02-13,1.0
+Philippines,2020-02-14,1.0
+Philippines,2020-02-15,1.0
+Philippines,2020-02-16,1.0
+Philippines,2020-02-17,1.0
+Philippines,2020-02-18,1.0
+Philippines,2020-02-19,1.0
+Philippines,2020-02-20,1.0
+Philippines,2020-02-21,1.0
+Philippines,2020-02-22,1.0
+Philippines,2020-02-23,1.0
+Philippines,2020-02-24,1.0
+Philippines,2020-02-25,1.0
+Philippines,2020-02-26,1.0
+Philippines,2020-02-27,1.0
+Philippines,2020-02-28,1.0
+Philippines,2020-02-29,1.0
+Philippines,2020-03-01,1.0
+Philippines,2020-03-02,1.0
+Philippines,2020-03-03,1.0
+Philippines,2020-03-04,1.0
+Philippines,2020-03-05,1.0
+Philippines,2020-03-06,1.0
+Philippines,2020-03-07,1.0
+Philippines,2020-03-08,1.0
+Philippines,2020-03-09,1.0
+Philippines,2020-03-10,1.0
+Philippines,2020-03-11,1.0
+Philippines,2020-03-12,2.0
+Philippines,2020-03-13,5.0
+Philippines,2020-03-14,8.0
+Philippines,2020-03-15,11.0
+Philippines,2020-03-16,12.0
+Philippines,2020-03-17,12.0
+Philippines,2020-03-18,19.0
+Philippines,2020-03-19,17.0
+Philippines,2020-03-20,18.0
+Philippines,2020-03-21,19.0
+Philippines,2020-03-22,25.0
+Philippines,2020-03-23,33.0
+Philippines,2020-03-24,35.0
+Philippines,2020-03-25,38.0
+Philippines,2020-03-26,45.0
+Philippines,2020-03-27,54.0
+Philippines,2020-03-28,68.0
+Philippines,2020-03-29,71.0
+Philippines,2020-03-30,78.0
+Philippines,2020-03-31,88.0
+Philippines,2020-04-01,96.0
+Philippines,2020-04-02,107.0
+Philippines,2020-04-03,136.0
+Philippines,2020-04-04,144.0
+Philippines,2020-04-05,152.0
+Poland,2020-03-12,1.0
+Poland,2020-03-13,2.0
+Poland,2020-03-14,3.0
+Poland,2020-03-15,3.0
+Poland,2020-03-16,4.0
+Poland,2020-03-17,5.0
+Poland,2020-03-18,5.0
+Poland,2020-03-19,5.0
+Poland,2020-03-20,5.0
+Poland,2020-03-21,5.0
+Poland,2020-03-22,7.0
+Poland,2020-03-23,8.0
+Poland,2020-03-24,10.0
+Poland,2020-03-25,14.0
+Poland,2020-03-26,16.0
+Poland,2020-03-27,16.0
+Poland,2020-03-28,18.0
+Poland,2020-03-29,22.0
+Poland,2020-03-30,31.0
+Poland,2020-03-31,33.0
+Poland,2020-04-01,43.0
+Poland,2020-04-02,57.0
+Poland,2020-04-03,71.0
+Poland,2020-04-04,79.0
+Poland,2020-04-05,94.0
+Portugal,2020-03-17,1.0
+Portugal,2020-03-18,2.0
+Portugal,2020-03-19,3.0
+Portugal,2020-03-20,6.0
+Portugal,2020-03-21,12.0
+Portugal,2020-03-22,14.0
+Portugal,2020-03-23,23.0
+Portugal,2020-03-24,33.0
+Portugal,2020-03-25,43.0
+Portugal,2020-03-26,60.0
+Portugal,2020-03-27,76.0
+Portugal,2020-03-28,100.0
+Portugal,2020-03-29,119.0
+Portugal,2020-03-30,140.0
+Portugal,2020-03-31,160.0
+Portugal,2020-04-01,187.0
+Portugal,2020-04-02,209.0
+Portugal,2020-04-03,246.0
+Portugal,2020-04-04,266.0
+Portugal,2020-04-05,295.0
+Qatar,2020-03-28,1.0
+Qatar,2020-03-29,1.0
+Qatar,2020-03-30,1.0
+Qatar,2020-03-31,2.0
+Qatar,2020-04-01,2.0
+Qatar,2020-04-02,3.0
+Qatar,2020-04-03,3.0
+Qatar,2020-04-04,3.0
+Qatar,2020-04-05,4.0
+Romania,2020-03-22,3.0
+Romania,2020-03-23,7.0
+Romania,2020-03-24,11.0
+Romania,2020-03-25,17.0
+Romania,2020-03-26,23.0
+Romania,2020-03-27,26.0
+Romania,2020-03-28,37.0
+Romania,2020-03-29,43.0
+Romania,2020-03-30,65.0
+Romania,2020-03-31,82.0
+Romania,2020-04-01,92.0
+Romania,2020-04-02,115.0
+Romania,2020-04-03,133.0
+Romania,2020-04-04,146.0
+Romania,2020-04-05,151.0
+Russia,2020-03-19,1.0
+Russia,2020-03-20,1.0
+Russia,2020-03-21,1.0
+Russia,2020-03-22,1.0
+Russia,2020-03-23,1.0
+Russia,2020-03-24,1.0
+Russia,2020-03-25,3.0
+Russia,2020-03-26,3.0
+Russia,2020-03-27,4.0
+Russia,2020-03-28,4.0
+Russia,2020-03-29,8.0
+Russia,2020-03-30,9.0
+Russia,2020-03-31,17.0
+Russia,2020-04-01,24.0
+Russia,2020-04-02,30.0
+Russia,2020-04-03,34.0
+Russia,2020-04-04,43.0
+Russia,2020-04-05,45.0
+San Marino,2020-03-03,1.0
+San Marino,2020-03-04,1.0
+San Marino,2020-03-05,1.0
+San Marino,2020-03-06,1.0
+San Marino,2020-03-07,1.0
+San Marino,2020-03-08,1.0
+San Marino,2020-03-09,1.0
+San Marino,2020-03-10,2.0
+San Marino,2020-03-11,2.0
+San Marino,2020-03-12,3.0
+San Marino,2020-03-13,5.0
+San Marino,2020-03-14,5.0
+San Marino,2020-03-15,5.0
+San Marino,2020-03-16,7.0
+San Marino,2020-03-17,7.0
+San Marino,2020-03-18,11.0
+San Marino,2020-03-19,11.0
+San Marino,2020-03-20,14.0
+San Marino,2020-03-21,20.0
+San Marino,2020-03-22,20.0
+San Marino,2020-03-23,20.0
+San Marino,2020-03-24,21.0
+San Marino,2020-03-25,21.0
+San Marino,2020-03-26,21.0
+San Marino,2020-03-27,21.0
+San Marino,2020-03-28,22.0
+San Marino,2020-03-29,22.0
+San Marino,2020-03-30,25.0
+San Marino,2020-03-31,26.0
+San Marino,2020-04-01,26.0
+San Marino,2020-04-02,30.0
+San Marino,2020-04-03,30.0
+San Marino,2020-04-04,32.0
+San Marino,2020-04-05,32.0
+Saudi Arabia,2020-03-24,1.0
+Saudi Arabia,2020-03-25,2.0
+Saudi Arabia,2020-03-26,3.0
+Saudi Arabia,2020-03-27,3.0
+Saudi Arabia,2020-03-28,4.0
+Saudi Arabia,2020-03-29,8.0
+Saudi Arabia,2020-03-30,8.0
+Saudi Arabia,2020-03-31,10.0
+Saudi Arabia,2020-04-01,16.0
+Saudi Arabia,2020-04-02,21.0
+Saudi Arabia,2020-04-03,25.0
+Saudi Arabia,2020-04-04,29.0
+Saudi Arabia,2020-04-05,34.0
+Senegal,2020-04-01,1.0
+Senegal,2020-04-02,1.0
+Senegal,2020-04-03,1.0
+Senegal,2020-04-04,2.0
+Senegal,2020-04-05,2.0
+Serbia,2020-03-20,1.0
+Serbia,2020-03-21,1.0
+Serbia,2020-03-22,2.0
+Serbia,2020-03-23,3.0
+Serbia,2020-03-24,3.0
+Serbia,2020-03-25,4.0
+Serbia,2020-03-26,1.0
+Serbia,2020-03-27,1.0
+Serbia,2020-03-28,10.0
+Serbia,2020-03-29,13.0
+Serbia,2020-03-30,16.0
+Serbia,2020-03-31,16.0
+Serbia,2020-04-01,28.0
+Serbia,2020-04-02,31.0
+Serbia,2020-04-03,39.0
+Serbia,2020-04-04,44.0
+Serbia,2020-04-05,51.0
+Singapore,2020-03-21,2.0
+Singapore,2020-03-22,2.0
+Singapore,2020-03-23,2.0
+Singapore,2020-03-24,2.0
+Singapore,2020-03-25,2.0
+Singapore,2020-03-26,2.0
+Singapore,2020-03-27,2.0
+Singapore,2020-03-28,2.0
+Singapore,2020-03-29,3.0
+Singapore,2020-03-30,3.0
+Singapore,2020-03-31,3.0
+Singapore,2020-04-01,3.0
+Singapore,2020-04-02,4.0
+Singapore,2020-04-03,5.0
+Singapore,2020-04-04,6.0
+Singapore,2020-04-05,6.0
+Slovakia,2020-03-18,1.0
+Slovakia,2020-03-19,1.0
+Slovakia,2020-03-20,1.0
+Slovakia,2020-03-21,1.0
+Slovakia,2020-04-01,1.0
+Slovakia,2020-04-02,1.0
+Slovakia,2020-04-03,1.0
+Slovakia,2020-04-04,1.0
+Slovakia,2020-04-05,1.0
+Slovenia,2020-03-14,1.0
+Slovenia,2020-03-15,1.0
+Slovenia,2020-03-16,1.0
+Slovenia,2020-03-17,1.0
+Slovenia,2020-03-18,1.0
+Slovenia,2020-03-19,1.0
+Slovenia,2020-03-20,1.0
+Slovenia,2020-03-21,1.0
+Slovenia,2020-03-22,2.0
+Slovenia,2020-03-23,3.0
+Slovenia,2020-03-24,4.0
+Slovenia,2020-03-25,5.0
+Slovenia,2020-03-26,6.0
+Slovenia,2020-03-27,9.0
+Slovenia,2020-03-28,9.0
+Slovenia,2020-03-29,11.0
+Slovenia,2020-03-30,11.0
+Slovenia,2020-03-31,15.0
+Slovenia,2020-04-01,15.0
+Slovenia,2020-04-02,17.0
+Slovenia,2020-04-03,20.0
+Slovenia,2020-04-04,22.0
+Slovenia,2020-04-05,28.0
+South Africa,2020-03-27,1.0
+South Africa,2020-03-28,1.0
+South Africa,2020-03-29,2.0
+South Africa,2020-03-30,3.0
+South Africa,2020-03-31,5.0
+South Africa,2020-04-01,5.0
+South Africa,2020-04-02,5.0
+South Africa,2020-04-03,9.0
+South Africa,2020-04-04,9.0
+South Africa,2020-04-05,11.0
+Spain,2020-03-03,1.0
+Spain,2020-03-04,2.0
+Spain,2020-03-05,3.0
+Spain,2020-03-06,5.0
+Spain,2020-03-07,10.0
+Spain,2020-03-08,17.0
+Spain,2020-03-09,28.0
+Spain,2020-03-10,35.0
+Spain,2020-03-11,54.0
+Spain,2020-03-12,55.0
+Spain,2020-03-13,133.0
+Spain,2020-03-14,195.0
+Spain,2020-03-15,289.0
+Spain,2020-03-16,342.0
+Spain,2020-03-17,533.0
+Spain,2020-03-18,623.0
+Spain,2020-03-19,830.0
+Spain,2020-03-20,1043.0
+Spain,2020-03-21,1375.0
+Spain,2020-03-22,1772.0
+Spain,2020-03-23,2311.0
+Spain,2020-03-24,2808.0
+Spain,2020-03-25,3647.0
+Spain,2020-03-26,4365.0
+Spain,2020-03-27,5138.0
+Spain,2020-03-28,5982.0
+Spain,2020-03-29,6803.0
+Spain,2020-03-30,7716.0
+Spain,2020-03-31,8464.0
+Spain,2020-04-01,9387.0
+Spain,2020-04-02,10348.0
+Spain,2020-04-03,11198.0
+Spain,2020-04-04,11947.0
+Spain,2020-04-05,12641.0
+Sri Lanka,2020-03-28,1.0
+Sri Lanka,2020-03-29,1.0
+Sri Lanka,2020-03-30,2.0
+Sri Lanka,2020-03-31,2.0
+Sri Lanka,2020-04-01,3.0
+Sri Lanka,2020-04-02,4.0
+Sri Lanka,2020-04-03,4.0
+Sri Lanka,2020-04-04,5.0
+Sri Lanka,2020-04-05,5.0
+Sudan,2020-03-13,1.0
+Sudan,2020-03-14,1.0
+Sudan,2020-03-15,1.0
+Sudan,2020-03-16,1.0
+Sudan,2020-03-17,1.0
+Sudan,2020-03-18,1.0
+Sudan,2020-03-19,1.0
+Sudan,2020-03-20,1.0
+Sudan,2020-03-21,1.0
+Sudan,2020-03-22,1.0
+Sudan,2020-03-23,1.0
+Sudan,2020-03-24,1.0
+Sudan,2020-03-25,1.0
+Sudan,2020-03-26,1.0
+Sudan,2020-03-27,1.0
+Sudan,2020-03-28,1.0
+Sudan,2020-03-29,1.0
+Sudan,2020-03-30,2.0
+Sudan,2020-03-31,2.0
+Sudan,2020-04-01,2.0
+Sudan,2020-04-02,2.0
+Sudan,2020-04-03,2.0
+Sudan,2020-04-04,2.0
+Sudan,2020-04-05,2.0
+Suriname,2020-04-03,1.0
+Suriname,2020-04-04,1.0
+Suriname,2020-04-05,1.0
+Sweden,2020-03-11,1.0
+Sweden,2020-03-12,1.0
+Sweden,2020-03-13,1.0
+Sweden,2020-03-14,2.0
+Sweden,2020-03-15,3.0
+Sweden,2020-03-16,6.0
+Sweden,2020-03-17,7.0
+Sweden,2020-03-18,10.0
+Sweden,2020-03-19,11.0
+Sweden,2020-03-20,16.0
+Sweden,2020-03-21,20.0
+Sweden,2020-03-22,21.0
+Sweden,2020-03-23,25.0
+Sweden,2020-03-24,36.0
+Sweden,2020-03-25,62.0
+Sweden,2020-03-26,77.0
+Sweden,2020-03-27,105.0
+Sweden,2020-03-28,105.0
+Sweden,2020-03-29,110.0
+Sweden,2020-03-30,146.0
+Sweden,2020-03-31,180.0
+Sweden,2020-04-01,239.0
+Sweden,2020-04-02,308.0
+Sweden,2020-04-03,358.0
+Sweden,2020-04-04,373.0
+Sweden,2020-04-05,401.0
+Switzerland,2020-03-05,1.0
+Switzerland,2020-03-06,1.0
+Switzerland,2020-03-07,1.0
+Switzerland,2020-03-08,2.0
+Switzerland,2020-03-09,2.0
+Switzerland,2020-03-10,3.0
+Switzerland,2020-03-11,4.0
+Switzerland,2020-03-12,4.0
+Switzerland,2020-03-13,11.0
+Switzerland,2020-03-14,13.0
+Switzerland,2020-03-15,14.0
+Switzerland,2020-03-16,14.0
+Switzerland,2020-03-17,27.0
+Switzerland,2020-03-18,28.0
+Switzerland,2020-03-19,41.0
+Switzerland,2020-03-20,54.0
+Switzerland,2020-03-21,75.0
+Switzerland,2020-03-22,98.0
+Switzerland,2020-03-23,120.0
+Switzerland,2020-03-24,122.0
+Switzerland,2020-03-25,153.0
+Switzerland,2020-03-26,191.0
+Switzerland,2020-03-27,231.0
+Switzerland,2020-03-28,264.0
+Switzerland,2020-03-29,300.0
+Switzerland,2020-03-30,359.0
+Switzerland,2020-03-31,433.0
+Switzerland,2020-04-01,488.0
+Switzerland,2020-04-02,536.0
+Switzerland,2020-04-03,591.0
+Switzerland,2020-04-04,666.0
+Switzerland,2020-04-05,715.0
+Syria,2020-03-29,1.0
+Syria,2020-03-30,2.0
+Syria,2020-03-31,2.0
+Syria,2020-04-01,2.0
+Syria,2020-04-02,2.0
+Syria,2020-04-03,2.0
+Syria,2020-04-04,2.0
+Syria,2020-04-05,2.0
+Taiwan*,2020-02-16,1.0
+Taiwan*,2020-02-17,1.0
+Taiwan*,2020-02-18,1.0
+Taiwan*,2020-02-19,1.0
+Taiwan*,2020-02-20,1.0
+Taiwan*,2020-02-21,1.0
+Taiwan*,2020-02-22,1.0
+Taiwan*,2020-02-23,1.0
+Taiwan*,2020-02-24,1.0
+Taiwan*,2020-02-25,1.0
+Taiwan*,2020-02-26,1.0
+Taiwan*,2020-02-27,1.0
+Taiwan*,2020-02-28,1.0
+Taiwan*,2020-02-29,1.0
+Taiwan*,2020-03-01,1.0
+Taiwan*,2020-03-02,1.0
+Taiwan*,2020-03-03,1.0
+Taiwan*,2020-03-04,1.0
+Taiwan*,2020-03-05,1.0
+Taiwan*,2020-03-06,1.0
+Taiwan*,2020-03-07,1.0
+Taiwan*,2020-03-08,1.0
+Taiwan*,2020-03-09,1.0
+Taiwan*,2020-03-10,1.0
+Taiwan*,2020-03-11,1.0
+Taiwan*,2020-03-12,1.0
+Taiwan*,2020-03-13,1.0
+Taiwan*,2020-03-14,1.0
+Taiwan*,2020-03-15,1.0
+Taiwan*,2020-03-16,1.0
+Taiwan*,2020-03-17,1.0
+Taiwan*,2020-03-18,1.0
+Taiwan*,2020-03-19,1.0
+Taiwan*,2020-03-20,2.0
+Taiwan*,2020-03-21,2.0
+Taiwan*,2020-03-22,2.0
+Taiwan*,2020-03-23,2.0
+Taiwan*,2020-03-24,2.0
+Taiwan*,2020-03-25,2.0
+Taiwan*,2020-03-26,2.0
+Taiwan*,2020-03-27,2.0
+Taiwan*,2020-03-28,2.0
+Taiwan*,2020-03-29,2.0
+Taiwan*,2020-03-30,5.0
+Taiwan*,2020-03-31,5.0
+Taiwan*,2020-04-01,5.0
+Taiwan*,2020-04-02,5.0
+Taiwan*,2020-04-03,5.0
+Taiwan*,2020-04-04,5.0
+Taiwan*,2020-04-05,5.0
+Tanzania,2020-03-31,1.0
+Tanzania,2020-04-01,1.0
+Tanzania,2020-04-02,1.0
+Tanzania,2020-04-03,1.0
+Tanzania,2020-04-04,1.0
+Tanzania,2020-04-05,1.0
+Thailand,2020-03-01,1.0
+Thailand,2020-03-02,1.0
+Thailand,2020-03-03,1.0
+Thailand,2020-03-04,1.0
+Thailand,2020-03-05,1.0
+Thailand,2020-03-06,1.0
+Thailand,2020-03-07,1.0
+Thailand,2020-03-08,1.0
+Thailand,2020-03-09,1.0
+Thailand,2020-03-10,1.0
+Thailand,2020-03-11,1.0
+Thailand,2020-03-12,1.0
+Thailand,2020-03-13,1.0
+Thailand,2020-03-14,1.0
+Thailand,2020-03-15,1.0
+Thailand,2020-03-16,1.0
+Thailand,2020-03-17,1.0
+Thailand,2020-03-18,1.0
+Thailand,2020-03-19,1.0
+Thailand,2020-03-20,1.0
+Thailand,2020-03-21,1.0
+Thailand,2020-03-22,1.0
+Thailand,2020-03-23,1.0
+Thailand,2020-03-24,4.0
+Thailand,2020-03-25,4.0
+Thailand,2020-03-26,4.0
+Thailand,2020-03-27,5.0
+Thailand,2020-03-28,6.0
+Thailand,2020-03-29,7.0
+Thailand,2020-03-30,9.0
+Thailand,2020-03-31,10.0
+Thailand,2020-04-01,12.0
+Thailand,2020-04-02,15.0
+Thailand,2020-04-03,19.0
+Thailand,2020-04-04,20.0
+Thailand,2020-04-05,23.0
+Togo,2020-03-27,1.0
+Togo,2020-03-28,1.0
+Togo,2020-03-29,1.0
+Togo,2020-03-30,1.0
+Togo,2020-03-31,1.0
+Togo,2020-04-01,2.0
+Togo,2020-04-02,2.0
+Togo,2020-04-03,3.0
+Togo,2020-04-04,3.0
+Togo,2020-04-05,3.0
+Trinidad and Tobago,2020-03-25,1.0
+Trinidad and Tobago,2020-03-26,1.0
+Trinidad and Tobago,2020-03-27,2.0
+Trinidad and Tobago,2020-03-28,3.0
+Trinidad and Tobago,2020-03-29,3.0
+Trinidad and Tobago,2020-03-30,3.0
+Trinidad and Tobago,2020-03-31,3.0
+Trinidad and Tobago,2020-04-01,5.0
+Trinidad and Tobago,2020-04-02,5.0
+Trinidad and Tobago,2020-04-03,6.0
+Trinidad and Tobago,2020-04-04,6.0
+Trinidad and Tobago,2020-04-05,7.0
+Tunisia,2020-03-19,1.0
+Tunisia,2020-03-20,1.0
+Tunisia,2020-03-21,1.0
+Tunisia,2020-03-22,3.0
+Tunisia,2020-03-23,3.0
+Tunisia,2020-03-24,4.0
+Tunisia,2020-03-25,5.0
+Tunisia,2020-03-26,6.0
+Tunisia,2020-03-27,6.0
+Tunisia,2020-03-28,8.0
+Tunisia,2020-03-29,8.0
+Tunisia,2020-03-30,8.0
+Tunisia,2020-03-31,10.0
+Tunisia,2020-04-01,12.0
+Tunisia,2020-04-02,14.0
+Tunisia,2020-04-03,18.0
+Tunisia,2020-04-04,18.0
+Tunisia,2020-04-05,22.0
+Turkey,2020-03-17,1.0
+Turkey,2020-03-18,1.0
+Turkey,2020-03-19,3.0
+Turkey,2020-03-20,4.0
+Turkey,2020-03-21,9.0
+Turkey,2020-03-22,30.0
+Turkey,2020-03-23,37.0
+Turkey,2020-03-24,44.0
+Turkey,2020-03-25,59.0
+Turkey,2020-03-26,75.0
+Turkey,2020-03-27,92.0
+Turkey,2020-03-28,108.0
+Turkey,2020-03-29,131.0
+Turkey,2020-03-30,168.0
+Turkey,2020-03-31,214.0
+Turkey,2020-04-01,277.0
+Turkey,2020-04-02,356.0
+Turkey,2020-04-03,425.0
+Turkey,2020-04-04,501.0
+Turkey,2020-04-05,574.0
+US,2020-03-10,28.0
+US,2020-03-11,36.0
+US,2020-03-12,40.0
+US,2020-03-13,47.0
+US,2020-03-14,54.0
+US,2020-03-15,63.0
+US,2020-03-16,85.0
+US,2020-03-17,108.0
+US,2020-03-18,118.0
+US,2020-03-19,200.0
+US,2020-03-20,244.0
+US,2020-03-21,307.0
+US,2020-03-22,426.0
+US,2020-03-23,551.0
+US,2020-03-24,705.0
+US,2020-03-25,941.0
+US,2020-03-26,1208.0
+US,2020-03-27,1578.0
+US,2020-03-28,2023.0
+US,2020-03-29,2464.0
+US,2020-03-30,2975.0
+US,2020-03-31,3870.0
+US,2020-04-01,4753.0
+US,2020-04-02,5922.0
+US,2020-04-03,7083.0
+US,2020-04-04,8403.0
+US,2020-04-05,9615.0
+Ukraine,2020-03-13,1.0
+Ukraine,2020-03-14,1.0
+Ukraine,2020-03-15,1.0
+Ukraine,2020-03-16,1.0
+Ukraine,2020-03-17,2.0
+Ukraine,2020-03-18,2.0
+Ukraine,2020-03-19,2.0
+Ukraine,2020-03-20,3.0
+Ukraine,2020-03-21,3.0
+Ukraine,2020-03-22,3.0
+Ukraine,2020-03-23,3.0
+Ukraine,2020-03-24,3.0
+Ukraine,2020-03-25,5.0
+Ukraine,2020-03-26,5.0
+Ukraine,2020-03-27,5.0
+Ukraine,2020-03-28,9.0
+Ukraine,2020-03-29,10.0
+Ukraine,2020-03-30,13.0
+Ukraine,2020-03-31,17.0
+Ukraine,2020-04-01,20.0
+Ukraine,2020-04-02,22.0
+Ukraine,2020-04-03,27.0
+Ukraine,2020-04-04,32.0
+Ukraine,2020-04-05,37.0
+United Arab Emirates,2020-03-20,2.0
+United Arab Emirates,2020-03-21,2.0
+United Arab Emirates,2020-03-22,2.0
+United Arab Emirates,2020-03-23,2.0
+United Arab Emirates,2020-03-24,2.0
+United Arab Emirates,2020-03-25,2.0
+United Arab Emirates,2020-03-26,2.0
+United Arab Emirates,2020-03-27,2.0
+United Arab Emirates,2020-03-28,2.0
+United Arab Emirates,2020-03-29,3.0
+United Arab Emirates,2020-03-30,5.0
+United Arab Emirates,2020-03-31,6.0
+United Arab Emirates,2020-04-01,8.0
+United Arab Emirates,2020-04-02,8.0
+United Arab Emirates,2020-04-03,9.0
+United Arab Emirates,2020-04-04,10.0
+United Arab Emirates,2020-04-05,10.0
+United Kingdom,2020-03-05,1.0
+United Kingdom,2020-03-06,2.0
+United Kingdom,2020-03-07,2.0
+United Kingdom,2020-03-08,3.0
+United Kingdom,2020-03-09,4.0
+United Kingdom,2020-03-10,6.0
+United Kingdom,2020-03-11,8.0
+United Kingdom,2020-03-12,8.0
+United Kingdom,2020-03-13,8.0
+United Kingdom,2020-03-14,21.0
+United Kingdom,2020-03-15,21.0
+United Kingdom,2020-03-16,56.0
+United Kingdom,2020-03-17,56.0
+United Kingdom,2020-03-18,72.0
+United Kingdom,2020-03-19,138.0
+United Kingdom,2020-03-20,178.0
+United Kingdom,2020-03-21,234.0
+United Kingdom,2020-03-22,282.0
+United Kingdom,2020-03-23,336.0
+United Kingdom,2020-03-24,423.0
+United Kingdom,2020-03-25,466.0
+United Kingdom,2020-03-26,580.0
+United Kingdom,2020-03-27,761.0
+United Kingdom,2020-03-28,1021.0
+United Kingdom,2020-03-29,1231.0
+United Kingdom,2020-03-30,1411.0
+United Kingdom,2020-03-31,1793.0
+United Kingdom,2020-04-01,2357.0
+United Kingdom,2020-04-02,2926.0
+United Kingdom,2020-04-03,3611.0
+United Kingdom,2020-04-04,4320.0
+United Kingdom,2020-04-05,4943.0
+Uruguay,2020-03-29,1.0
+Uruguay,2020-03-30,1.0
+Uruguay,2020-03-31,1.0
+Uruguay,2020-04-01,2.0
+Uruguay,2020-04-02,4.0
+Uruguay,2020-04-03,4.0
+Uruguay,2020-04-04,5.0
+Uruguay,2020-04-05,5.0
+Uzbekistan,2020-03-27,1.0
+Uzbekistan,2020-03-28,2.0
+Uzbekistan,2020-03-29,2.0
+Uzbekistan,2020-03-30,2.0
+Uzbekistan,2020-03-31,2.0
+Uzbekistan,2020-04-01,2.0
+Uzbekistan,2020-04-02,2.0
+Uzbekistan,2020-04-03,2.0
+Uzbekistan,2020-04-04,2.0
+Uzbekistan,2020-04-05,2.0
+Venezuela,2020-03-27,1.0
+Venezuela,2020-03-28,2.0
+Venezuela,2020-03-29,2.0
+Venezuela,2020-03-30,3.0
+Venezuela,2020-03-31,3.0
+Venezuela,2020-04-01,3.0
+Venezuela,2020-04-02,5.0
+Venezuela,2020-04-03,7.0
+Venezuela,2020-04-04,7.0
+Venezuela,2020-04-05,7.0
+West Bank and Gaza,2020-03-26,1.0
+West Bank and Gaza,2020-03-27,1.0
+West Bank and Gaza,2020-03-28,1.0
+West Bank and Gaza,2020-03-29,1.0
+West Bank and Gaza,2020-03-30,1.0
+West Bank and Gaza,2020-03-31,1.0
+West Bank and Gaza,2020-04-01,1.0
+West Bank and Gaza,2020-04-02,1.0
+West Bank and Gaza,2020-04-03,1.0
+West Bank and Gaza,2020-04-04,1.0
+West Bank and Gaza,2020-04-05,1.0
+Zambia,2020-04-02,1.0
+Zambia,2020-04-03,1.0
+Zambia,2020-04-04,1.0
+Zambia,2020-04-05,1.0
+Zimbabwe,2020-03-23,1.0
+Zimbabwe,2020-03-24,1.0
+Zimbabwe,2020-03-25,1.0
+Zimbabwe,2020-03-26,1.0
+Zimbabwe,2020-03-27,1.0
+Zimbabwe,2020-03-28,1.0
+Zimbabwe,2020-03-29,1.0
+Zimbabwe,2020-03-30,1.0
+Zimbabwe,2020-03-31,1.0
+Zimbabwe,2020-04-01,1.0
+Zimbabwe,2020-04-02,1.0
+Zimbabwe,2020-04-03,1.0
+Zimbabwe,2020-04-04,1.0
+Zimbabwe,2020-04-05,1.0
