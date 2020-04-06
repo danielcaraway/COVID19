@@ -12,14 +12,21 @@
 
 <body>
     HENLO THERE FREN
+    <div id="observablehq-76f497e8"></div>
+    <script type="module">
+        import { Runtime, Inspector } from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+        import define from "https://api.observablehq.com/@danielcaraway/global-covid19-confirmed-cases.js?v=3";
+        const inspect = Inspector.into("#observablehq-76f497e8");
+        (new Runtime).module(define, name => (name === "chart") && inspect());
+    </script>
 </body>
 <script>
-    async function getData() {
-        var data = d3.csvParse(await FileAttachment("https://raw.githubusercontent.com/danielcaraway/data/master/covid_wk2_grouped_confirmed.csv.csv").text(), d3.autoType)
-        console.log(data)
-    }
+    // async function getData() {
+    //     var data = d3.csvParse(await FileAttachment("https://raw.githubusercontent.com/danielcaraway/data/master/covid_wk2_grouped_confirmed.csv.csv").text(), d3.autoType)
+    //     console.log(data)
+    // }
 
-    getData()
+    // getData()
 </script>
 
 </html>
