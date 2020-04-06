@@ -1,0 +1,223 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,date,sitrep
+"Province/  
+Region/  
+City","Population 
+(10,000s)",In last 24 hours,,,Cumulative,,,,,,,,,20200311,51
+,,"Confirmed 
+cases","Suspected 
+cases",Deaths,"Confirmed 
+cases",Deaths,,,,,,,,20200311,51
+Hubei,5917,13,6,22,67773,3046,,,,,,,,20200311,51
+Guangdong,11346,0,1,0,1353,8,,,,,,,,20200311,51
+Henan,9605,0,0,0,1272,22,,,,,,,,20200311,51
+Zhejiang,5737,0,0,0,1215,1,,,,,,,,20200311,51
+Hunan,6899,0,0,0,1018,4,,,,,,,,20200311,51
+Anhui,6324,0,0,0,990,6,,,,,,,,20200311,51
+Jiangxi,4648,0,0,0,935,1,,,,,,,,20200311,51
+Shandong,10047,1,0,0,759,6,,,,,,,,20200311,51
+Jiangsu,8051,0,0,0,631,0,,,,,,,,20200311,51
+Chongqing,3102,0,0,0,576,6,,,,,,,,20200311,51
+Sichuan,8341,0,0,0,539,3,,,,,,,,20200311,51
+Heilongjiang,3773,1,0,0,482,13,,,,,,,,20200311,51
+Beijing,2154,6,2,0,435,8,,,,,,,,20200311,51
+Shanghai,2424,2,18,0,344,3,,,,,,,,20200311,51
+Hebei,7556,0,0,0,318,6,,,,,,,,20200311,51
+Fujian,3941,0,0,0,296,1,,,,,,,,20200311,51
+Guangxi,4926,0,0,0,252,2,,,,,,,,20200311,51
+Shaanxi,3864,0,0,0,245,1,,,,,,,,20200311,51
+Yunnan,4830,0,1,0,174,2,,,,,,,,20200311,51
+Hainan,934,0,0,0,168,6,,,,,,,,20200311,51
+Guizhou,3600,0,0,0,146,2,,,,,,,,20200311,51
+Tianjin,1560,0,2,0,136,3,,,,,,,,20200311,51
+Shanxi,3718,0,0,0,133,0,,,,,,,,20200311,51
+Liaoning,4359,0,1,0,125,1,,,,,,,,20200311,51
+Gansu,2637,1,0,0,125,2,,,,,,,,20200311,51
+Hong Kong SAR,745,5,0,0,120,3,,,,,,,,20200311,51
+Jilin,2704,0,0,0,93,1,,,,,,,,20200311,51
+Xinjiang,2487,0,0,0,76,3,,,,,,,,20200311,51
+Ningxia,688,0,0,0,75,0,,,,,,,,20200311,51
+Inner Mongolia,2534,0,0,0,75,1,,,,,,,,20200311,51
+Taipei and environs,2359,2,0,0,47,1,,,,,,,,20200311,51
+Qinghai,603,0,0,0,18,0,,,,,,,,20200311,51
+Macao SAR,66,0,0,0,10,0,,,,,,,,20200311,51
+Xizang,344,0,0,0,1,0,,,,,,,,20200311,51
+Total,142823,31,31,22,80955,3162,,,,,,,,20200311,51
+"Total 
+Total 
+Total 
+Days since last 
+Reporting Country/ 
+Total 
+Transmission 
+confirmed‡ 
+confirmed 
+new 
+reported case 
+Territory/Area† 
+deaths 
+classification§ 
+cases 
+new cases 
+deaths",,,,,,,,,,,,,,20200311,51
+Western Pacific Region,,,,,,,,,,,,,,20200311,51
+Republic of Korea,7755,242,60,6,Local transmission,0,,,,,,,,20200311,51
+Japan,568,54,12,3,Local transmission,0,,,,,,,,20200311,51
+Singapore,166,6,0,0,Local transmission,0,,,,,,,,20200311,51
+Malaysia,129,12,0,0,Local transmission,0,,,,,,,,20200311,51
+Australia,112,20,3,0,Local transmission,0,,,,,,,,20200311,51
+Philippines,49,16,1,0,Local transmission,0,,,,,,,,20200311,51
+Viet Nam,35,4,0,0,Local transmission,0,,,,,,,,20200311,51
+New Zealand,5,0,0,0,Local transmission,4,,,,,,,,20200311,51
+Cambodia,3,1,0,0,Local transmission,0,,,,,,,,20200311,51
+Brunei Darussalam,1,0,0,0,Imported cases only,1,,,,,,,,20200311,51
+Mongolia,1,0,0,0,Imported cases only,1,,,,,,,,20200311,51
+European Region,,,,,,,,,,,,,,20200311,51
+Italy,10149,977,631,168,Local transmission,0,,,,,,,,20200311,51
+France,1774,372,33,3,Local transmission,0,,,,,,,,20200311,51
+Spain,1639,615,36,8,Local transmission,0,,,,,,,,20200311,51
+Germany,1296,157,2,0,Local transmission,0,,,,,,,,20200311,51
+Switzerland,491,159,3,1,Local transmission,0,,,,,,,,20200311,51
+Netherlands,382,61,4,1,Local transmission,0,,,,,,,,20200311,51
+The United Kingdom,373,50,6,3,Local transmission,0,,,,,,,,20200311,51
+Sweden,326,78,0,0,Local transmission,0,,,,,,,,20200311,51
+Norway,277,85,0,0,Local transmission,0,,,,,,,,20200311,51
+Belgium,267,28,0,0,Local transmission,0,,,,,,,,20200311,51
+Denmark,262,172,0,0,Local transmission,0,,,,,,,,20200311,51
+Austria,182,51,0,0,Local transmission,0,,,,,,,,20200311,51
+Greece,89,16,0,0,Local transmission,0,,,,,,,,20200311,51
+Israel,75,36,0,0,Local transmission,0,,,,,,,,20200311,51
+San Marino,63,14,2,0,Local transmission,0,,,,,,,,20200311,51
+Czechia,61,23,0,0,Local transmission,0,,,,,,,,20200311,51
+Iceland,61,0,0,0,Local transmission,1,,,,,,,,20200311,51
+Portugal,41,11,0,0,Local transmission,0,,,,,,,,20200311,51
+Finland,40,0,0,0,Local transmission,1,,,,,,,,20200311,51
+Ireland,34,10,0,0,Local transmission,0,,,,,,,,20200311,51
+Slovenia,31,8,0,0,Local transmission,0,,,,,,,,20200311,51
+Romania,25,10,0,0,Local transmission,0,,,,,,,,20200311,51
+Georgia,23,8,0,0,Imported cases only,0,,,,,,,,20200311,51
+Poland,22,6,0,0,Local transmission,0,,,,,,,,20200311,51
+Croatia,16,4,0,0,Local transmission,0,,,,,,,,20200311,51
+Estonia,13,3,0,0,Imported cases only,0,,,,,,,,20200311,51
+Hungary,13,4,0,0,Local transmission,0,,,,,,,,20200311,51
+Serbia,12,11,0,0,Local transmission,0,,,,,,,,20200311,51
+Albania,10,8,0,0,Local transmission,0,,,,,,,,20200311,51
+Bulgaria,6,2,0,0,Local transmission,0,,,,,,,,20200311,51
+Azerbaijan,9,0,0,0,Imported cases only,4,,,,,,,,20200311,51
+Belarus,9,3,0,0,Local transmission,0,,,,,,,,20200311,51
+Latvia,8,2,0,0,Imported cases only,0,,,,,,,,20200311,51
+North Macedonia,7,0,0,0,Local transmission,1,,,,,,,,20200311,51
+Russian Federation,7,0,0,0,Imported cases only,4,,,,,,,,20200311,51
+Slovakia,7,0,0,0,Local transmission,1,,,,,,,,20200311,51
+Luxembourg,5,0,0,0,Imported cases only,1,,,,,,,,20200311,51
+"Bosnia and 
+Herzegovina",4,2,0,0,Local transmission,0,,,,,,,,20200311,51
+Malta,4,0,0,0,Imported cases only,1,,,,,,,,20200311,51
+Republic of Moldova,3,2,0,0,Imported cases only,0,,,,,,,,20200311,51
+Cyprus,2,0,0,0,Imported cases only,1,,,,,,,,20200311,51
+Andorra,1,0,0,0,Imported cases only,8,,,,,,,,20200311,51
+Armenia,1,0,0,0,Imported cases only,9,,,,,,,,20200311,51
+Holy See,1,0,0,0,Under investigation,5,,,,,,,,20200311,51
+Liechtenstein,1,0,0,0,Imported cases only,5,,,,,,,,20200311,51
+Lithuania,1,0,0,0,Imported cases only,12,,,,,,,,20200311,51
+Monaco,1,0,0,0,Under investigation,10,,,,,,,,20200311,51
+Ukraine,1,0,0,0,Imported cases only,7,,,,,,,,20200311,51
+Territories**,,,,,,,,,,,,,,20200311,51
+"Faroe Islands 
+2 
+0 
+0 
+0 
+Imported cases only 
+2",,,,,,,,,,,,,,20200311,51
+"Gibraltar 
+1 
+0 
+0 
+0 
+Under investigation 
+7",,,,,,,,,,,,,,20200311,51
+"Guernsey 
+1 
+0 
+0 
+0 
+Imported cases only 
+1",,,,,,,,,,,,,,20200311,51
+South-East Asia Region,,,,,,,,,,,,,,20200311,51
+India,60,16,0,0,Local transmission,0,,,,,,,,20200311,51
+Thailand,59,6,1,0,Local transmission,0,,,,,,,,20200311,51
+Indonesia,27,8,1,1,Local transmission,0,,,,,,,,20200311,51
+Maldives,8,4,0,0,Local transmission,0,,,,,,,,20200311,51
+Bangladesh,3,0,0,0,Local transmission,2,,,,,,,,20200311,51
+Bhutan,1,0,0,0,Imported cases only,5,,,,,,,,20200311,51
+Nepal,1,0,0,0,Imported cases only,47,,,,,,,,20200311,51
+Sri Lanka,1,0,0,0,Imported cases only,44,,,,,,,,20200311,51
+Eastern Mediterranean Region,,,,,,,,,,,,,,20200311,51
+"Iran (Islamic 
+Republic of)",8042,881,291,54,Local transmission,0,,,,,,,,20200311,51
+Bahrain,110,1,0,0,Local transmission,0,,,,,,,,20200311,51
+"United Arab 
+Emirates",74,15,0,0,Local transmission,0,,,,,,,,20200311,51
+Kuwait,69,4,0,0,Imported cases only,0,,,,,,,,20200311,51
+Iraq,61,0,6,0,Local transmission,1,,,,,,,,20200311,51
+Egypt,59,0,1,0,Local transmission,1,,,,,,,,20200311,51
+Lebanon,41,9,1,1,Local transmission,0,,,,,,,,20200311,51
+Qatar,24,6,0,0,Imported cases only,0,,,,,,,,20200311,51
+Saudi Arabia,20,5,0,0,Local transmission,0,,,,,,,,20200311,51
+Oman,18,0,0,0,Imported cases only,1,,,,,,,,20200311,51
+Pakistan,16,0,0,0,Local transmission,1,,,,,,,,20200311,51
+Tunisia,6,4,0,0,Local transmission,0,,,,,,,,20200311,51
+Afghanistan,4,0,0,0,Imported cases only,3,,,,,,,,20200311,51
+Morocco,3,1,1,1,Imported cases only,0,,,,,,,,20200311,51
+Jordan,1,0,0,0,Imported cases only,8,,,,,,,,20200311,51
+Territories**,,,,,,,,,,,,,,20200311,51
+"occupied Palestinian 
+territory 
+30 
+4 
+0 
+0 
+Local transmission 
+0",,,,,,,,,,,,,,20200311,51
+Region of the Americas,,,,,,,,,,,,,,20200311,51
+"United States of 
+America",696,224,25,6,Local transmission,0,,,,,,,,20200311,51
+Canada,93,16,1,1,Local transmission,0,,,,,,,,20200311,51
+Brazil,34,9,0,0,Local transmission,0,,,,,,,,20200311,51
+Argentina,17,5,1,0,Imported cases only,0,,,,,,,,20200311,51
+Chile,17,4,0,0,Local transmission,0,,,,,,,,20200311,51
+Ecuador,15,0,0,0,Local transmission,2,,,,,,,,20200311,51
+Costa Rica,13,4,0,0,Local transmission,0,,,,,,,,20200311,51
+Peru,11,2,0,0,Local transmission,0,,,,,,,,20200311,51
+Panama,8,7,1,1,Imported cases only,0,,,,,,,,20200311,51
+Paraguay,5,4,0,0,Local transmission,0,,,,,,,,20200311,51
+Mexico,7,0,0,0,Imported cases only,3,,,,,,,,20200311,51
+Dominican Republic,5,0,0,0,Imported cases only,1,,,,,,,,20200311,51
+Colombia,3,0,0,0,Imported cases only,1,,,,,,,,20200311,51
+"Bolivia (Plurinational 
+State of)",2,2,0,0,Imported cases only,0,,,,,,,,20200311,51
+Jamaica,1,1,0,0,Imported cases only,0,,,,,,,,20200311,51
+Territories**,,,,,,,,,,,,,,20200311,51
+French Guiana,5,0,0,0,Imported cases only,3,,,,,,,,20200311,51
+Martinique,3,1,0,0,Imported cases only,0,,,,,,,,20200311,51
+Saint Martin,2,0,0,0,Under investigation,8,,,,,,,,20200311,51
+Saint Barthelemy,1,0,0,0,Under investigation,8,,,,,,,,20200311,51
+African Region,,,,,,,,,,,,,,20200311,51
+Algeria,20,0,0,0,Local transmission,2,,,,,,,,20200311,51
+South Africa,7,0,0,0,Imported cases only,1,,,,,,,,20200311,51
+Senegal,4,0,0,0,Imported cases only,6,,,,,,,,20200311,51
+Burkina Faso,2,2,0,0,Imported cases only,0,,,,,,,,20200311,51
+Cameroon,2,0,0,0,Local transmission,4,,,,,,,,20200311,51
+Nigeria,2,0,0,0,Imported cases only,2,,,,,,,,20200311,51
+"Democratic Republic 
+of the Congo",1,1,0,0,Imported cases only,0,,,,,,,,20200311,51
+Togo,1,0,0,0,Imported cases only,4,,,,,,,,20200311,51
+"Subtotal for all 
+regions",36668,4589,1123,258,,,,,,,,,,20200311,51
+"International 
+conveyance 
+(Diamond Princess)",696,0,7,0,Local transmission,3,,,,,,,,20200311,51
+Grand total,37364,4589,1130,258,,,,,,,,,,20200311,51
+,,,,,,,,,,,,,,20200311,51
+,,,,,,,,,,,,,,20200311,51
+,,,,,,,,,,,,,,20200311,51

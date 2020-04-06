@@ -1,0 +1,180 @@
+0,1,2,3,4,5,6,date,sitrep
+"Province/  
+Region/  
+City","Population 
+(10,000s)",In last 24 hours,,,Cumulative,,20200303,43
+,,"Confirmed 
+cases","Suspected 
+cases",Deaths,"Confirmed 
+cases",Deaths,20200303,43
+Hubei,5917,114,64,31,67217,2834,20200303,43
+Guangdong,11346,0,0,0,1350,7,20200303,43
+Henan,9605,0,0,0,1272,22,20200303,43
+Zhejiang,5737,7,0,0,1213,1,20200303,43
+Hunan,6899,0,0,0,1018,4,20200303,43
+Anhui,6324,0,0,0,990,6,20200303,43
+Jiangxi,4648,0,1,0,935,1,20200303,43
+Shandong,10047,0,0,0,758,6,20200303,43
+Jiangsu,8051,0,0,0,631,0,20200303,43
+Chongqing,3102,0,2,0,576,6,20200303,43
+Sichuan,8341,0,0,0,538,3,20200303,43
+Heilongjiang,3773,0,0,0,480,13,20200303,43
+Beijing,2154,0,14,0,414,8,20200303,43
+Shanghai,2424,1,9,0,338,3,20200303,43
+Hebei,7556,0,0,0,318,6,20200303,43
+Fujian,3941,0,0,0,296,1,20200303,43
+Guangxi,4926,0,0,0,252,2,20200303,43
+Shaanxi,3864,0,0,0,245,1,20200303,43
+Yunnan,4830,0,1,0,174,2,20200303,43
+Hainan,934,0,0,0,168,5,20200303,43
+Guizhou,3600,0,1,0,146,2,20200303,43
+Tianjin,1560,0,17,0,136,3,20200303,43
+Shanxi,3718,0,0,0,133,0,20200303,43
+Liaoning,4359,3,18,0,125,1,20200303,43
+Hong Kong SAR,745,3,0,0,101,2,20200303,43
+Jilin,2704,0,2,0,93,1,20200303,43
+Gansu,2637,0,0,0,91,2,20200303,43
+Xinjiang,2487,0,0,0,76,3,20200303,43
+Inner Mongolia,2534,0,0,0,75,0,20200303,43
+Ningxia,688,0,0,0,74,0,20200303,43
+Taipei and environs,2359,2,0,0,42,1,20200303,43
+Qinghai,603,0,0,0,18,0,20200303,43
+Macao SAR,66,0,0,0,10,0,20200303,43
+Xizang,344,0,0,0,1,0,20200303,43
+Total,142823,130,129,31,80304,2946,20200303,43
+"Total 
+Total 
+Total 
+Days since 
+Total 
+Transmission 
+Reporting Country 
+confirmed* 
+confirmed 
+new 
+last reported 
+deaths 
+classification† 
+cases 
+new cases 
+deaths 
+case",,,,,,,20200303,43
+Western Pacific Region,,,,,,,20200303,43
+Republic of Korea,4812,600,28,6,Local transmission,0,20200303,43
+Japan,268,14,6,0,Local transmission,0,20200303,43
+Singapore,108,2,0,0,Local transmission,0,20200303,43
+Australia,33,6,1,0,Local transmission,0,20200303,43
+Malaysia,29,5,0,0,Local transmission,0,20200303,43
+Viet Nam,16,0,0,0,Local transmission,19,20200303,43
+Philippines,3,0,1,0,Imported cases only,28,20200303,43
+New Zealand,2,1,0,0,Imported cases only,0,20200303,43
+Cambodia,1,0,0,0,Imported cases only,36,20200303,43
+European Region,,,,,,,20200303,43
+Italy,2036,347,52,17,Local transmission,0,20200303,43
+France,191,91,3,1,Local transmission,0,20200303,43
+Germany,157,28,0,0,Local transmission,0,20200303,43
+Spain,114,69,0,0,Local transmission,0,20200303,43
+the United Kingdom,39,3,0,0,Local transmission,0,20200303,43
+Switzerland,30,6,0,0,Local transmission,0,20200303,43
+Norway,25,6,0,0,Local transmission,0,20200303,43
+Austria,18,8,0,0,Imported cases only,0,20200303,43
+Netherlands,18,5,0,0,Local transmission,0,20200303,43
+Sweden,15,1,0,0,Local transmission,0,20200303,43
+Israel,10,3,0,0,Local transmission,0,20200303,43
+Croatia,8,2,0,0,Local transmission,0,20200303,43
+Iceland,9,7,0,0,Imported cases only,0,20200303,43
+San Marino,8,7,0,0,Local transmission,0,20200303,43
+Belgium,8,7,0,0,Imported cases only,0,20200303,43
+Finland,7,1,0,0,Local transmission,0,20200303,43
+Greece,7,0,0,0,Local transmission,1,20200303,43
+Denmark,5,1,0,0,Local transmission,0,20200303,43
+Azerbaijan,3,0,0,0,Imported cases only,2,20200303,43
+Czechia,3,0,0,0,Imported cases only,1,20200303,43
+Georgia,3,0,0,0,Imported cases only,2,20200303,43
+Romania,3,0,0,0,Imported cases only,3,20200303,43
+Russian Federation,3,1,0,0,Imported cases only,0,20200303,43
+Portugal,2,2,0,0,Imported cases only,0,20200303,43
+Andorra,1,1,0,0,Imported cases only,0,20200303,43
+Armenia,1,0,0,0,Imported cases only,1,20200303,43
+Belarus,1,0,0,0,Imported cases only,4,20200303,43
+Estonia,1,0,0,0,Imported cases only,5,20200303,43
+Ireland,1,0,0,0,Imported cases only,2,20200303,43
+Latvia,1,1,0,0,Imported cases only,0,20200303,43
+Lithuania,1,0,0,0,Imported cases only,4,20200303,43
+Luxembourg,1,0,0,0,Imported cases only,1,20200303,43
+Monaco,1,0,0,0,Under investigation,2,20200303,43
+North Macedonia,1,0,0,0,Imported cases only,6,20200303,43
+South-East Asia Region,,,,,,,20200303,43
+"Thailand 
+43 
+1 
+1 
+0 
+Local transmission 
+0",,,,,,,20200303,43
+"India 
+5 
+2 
+0 
+0 
+Imported cases only 
+0",,,,,,,20200303,43
+"Indonesia 
+2 
+0 
+0 
+0 
+Local transmission 
+0",,,,,,,20200303,43
+"Nepal 
+1 
+0 
+0 
+0 
+Imported cases only 
+39",,,,,,,20200303,43
+"Sri Lanka 
+1 
+0 
+0 
+0 
+Imported cases only 
+36",,,,,,,20200303,43
+Eastern Mediterranean Region,,,,,,,20200303,43
+"Iran (Islamic 
+Republic of)",1501,523,66,12,Local transmission,0,20200303,43
+Kuwait,56,0,0,0,Imported cases only,1,20200303,43
+Bahrain,49,2,0,0,Imported cases only,0,20200303,43
+Iraq,26,7,0,0,Imported cases only,0,20200303,43
+"United Arab 
+Emirates",21,0,0,0,Local transmission,1,20200303,43
+Lebanon,13,3,0,0,Local transmission,0,20200303,43
+Qatar,7,4,0,0,Imported cases only,0,20200303,43
+Oman,6,0,0,0,Imported cases only,4,20200303,43
+Pakistan,5,1,0,0,Imported cases only,0,20200303,43
+Egypt,2,0,0,0,Imported cases only,0,20200303,43
+Afghanistan,1,0,0,0,Imported cases only,8,20200303,43
+Jordan,1,1,0,0,Imported cases only,0,20200303,43
+Morocco,1,1,0,0,Imported cases only,0,20200303,43
+Saudi Arabia,1,1,0,0,Imported cases only,0,20200303,43
+Tunisia,1,1,0,0,Imported cases only,0,20200303,43
+Region of the Americas,,,,,,,20200303,43
+the United States,64,2,2,2,Local transmission,0,20200303,43
+Canada,27,8,0,0,Local transmission,0,20200303,43
+Ecuador,6,5,0,0,Local transmission,0,20200303,43
+Mexico,5,0,0,0,Imported cases only,1,20200303,43
+Brazil,2,0,0,0,Imported cases only,2,20200303,43
+Dominican Republic,1,0,0,0,Imported cases only,1,20200303,43
+African Region,,,,,,,20200303,43
+Algeria,5,4,0,0,Local transmission,0,20200303,43
+Nigeria,1,0,0,0,Imported cases only,4,20200303,43
+Senegal,1,1,0,0,Imported cases only,0,20200303,43
+"Subtotal for all 
+regions",9859,1792,160,38,,,20200303,43
+"International 
+conveyance 
+(Diamond Princess) ‡",706,0,6,0,Local transmission,1,20200303,43
+Grand total§,10565,1792,166,38,,,20200303,43
+,,,,,,,20200303,43
+,,,,,,,20200303,43
+,,,,,,,20200303,43
