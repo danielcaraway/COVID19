@@ -1,0 +1,29 @@
+"Country,Territory",Total Cases,Feb 6Feb 7Cases,TotalDeaths,Feb 6Feb 7Deaths,TotalRecovered,TotalCritical,Region,timestamp
+China,"31,204","+3,186",636,+73,"1,630","4,820",Asia,20200207101450
+Japan,86,+41,,,4,,Asia,20200207101450
+Singapore,33,+5,,,1,1,Asia,20200207101450
+Thailand,25,,,,9,1,Asia,20200207101450
+Hong Kong,24,+3,1,,,,Asia,20200207101450
+S. Korea,24,+1,,,1,,Asia,20200207101450
+Taiwan,16,+5,,,1,,Asia,20200207101450
+Australia,15,+1,,,5,,Oceania,20200207101450
+Malaysia,15,+3,,,1,,Asia,20200207101450
+Germany,13,+1,,,,,Europe,20200207101450
+USA,12,,,,1,,N.America,20200207101450
+Vietnam,12,+2,,,3,,Asia,20200207101450
+Macao,10,,,,,,Asia,20200207101450
+Canada,7,+2,,,,,N.America,20200207101450
+France,6,,,,,1,Europe,20200207101450
+U.A.E.,5,,,,,,Asia,20200207101450
+Philippines,3,,1,,,,Asia,20200207101450
+Italy,3,+1,,,,2,Europe,20200207101450
+India,3,,,,,,Asia,20200207101450
+U.K.,3,+1,,,,,Europe,20200207101450
+Russia,2,,,,,,Europe,20200207101450
+Finland,1,,,,1,,Europe,20200207101450
+Nepal,1,,,,,,Asia,20200207101450
+Sweden,1,,,,,,Europe,20200207101450
+Sri Lanka,1,,,,1,,Asia,20200207101450
+Cambodia,1,,,,1,,Asia,20200207101450
+Spain,1,,,,,,Europe,20200207101450
+Belgium,1,,,,,,Europe,20200207101450

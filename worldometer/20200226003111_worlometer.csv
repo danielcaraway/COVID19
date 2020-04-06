@@ -1,0 +1,43 @@
+"Country,Other",Total Cases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,"Serious,Critical",Region,timestamp
+China,"77,666",+7,"2,664",+1,"27,708","9,126",Asia,20200226003111
+S. Korea,977,+144,11,+3,22,6,Asia,20200226003111
+Diamond Princess,691,,4,+1,10,35,,20200226003111
+Italy,323,+94,11,+4,2,19,Europe,20200226003111
+Japan,161,+2,1,,23,50,Asia,20200226003111
+Iran,95,+34,16,+4,25,,Asia,20200226003111
+Singapore,91,+1,,,58,7,Asia,20200226003111
+Hong Kong,85,+4,2,,18,6,Asia,20200226003111
+USA,57,+4,,,6,,N.America,20200226003111
+Thailand,37,+2,,,22,2,Asia,20200226003111
+Taiwan,31,+1,1,,5,1,Asia,20200226003111
+Bahrain,23,+21,,,,,Asia,20200226003111
+Australia,22,,,,15,,Oceania,20200226003111
+Malaysia,22,,,,20,,Asia,20200226003111
+Germany,18,+2,,,15,1,Europe,20200226003111
+Vietnam,16,,,,16,,Asia,20200226003111
+France,14,+2,1,,11,,Europe,20200226003111
+U.K.,13,,,,8,,Europe,20200226003111
+U.A.E.,13,,,,3,2,Asia,20200226003111
+Canada,11,,,,3,,N.America,20200226003111
+Kuwait,11,+6,,,,,Asia,20200226003111
+Macao,10,,,,5,,Asia,20200226003111
+Spain,9,+6,,,2,,Europe,20200226003111
+Iraq,5,+4,,,,,Asia,20200226003111
+Oman,4,+2,,,,,Asia,20200226003111
+Philippines,3,,1,,2,,Asia,20200226003111
+India,3,,,,3,,Asia,20200226003111
+Austria,2,+2,,,,,Europe,20200226003111
+Israel,2,,,,,,Asia,20200226003111
+Russia,2,,,,2,,Europe,20200226003111
+Afghanistan,1,,,,,,Asia,20200226003111
+Algeria,1,+1,,,,,Africa,20200226003111
+Belgium,1,,,,1,,Europe,20200226003111
+Cambodia,1,,,,1,,Asia,20200226003111
+Croatia,1,+1,,,,,Europe,20200226003111
+Egypt,1,,,,1,,Africa,20200226003111
+Finland,1,,,,1,,Europe,20200226003111
+Lebanon,1,,,,,,Asia,20200226003111
+Nepal,1,,,,1,,Asia,20200226003111
+Sri Lanka,1,,,,1,,Asia,20200226003111
+Sweden,1,,,,,,Europe,20200226003111
+Switzerland,1,+1,,,,,Europe,20200226003111

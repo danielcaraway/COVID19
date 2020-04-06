@@ -1,0 +1,31 @@
+"Country,Other",Total Cases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,"Serious,Critical",Region,timestamp
+China,"72,436","+1,888","1,868",+98,"12,552","11,741",Asia,20200218011307
+Diamond Princess,454,,,,17,19,,20200218011307
+Singapore,77,,,,24,4,Asia,20200218011307
+Japan,66,,1,,18,19,Asia,20200218011307
+Hong Kong,60,,1,,2,7,Asia,20200218011307
+Thailand,35,,,,15,2,Asia,20200218011307
+S. Korea,30,,,,10,,Asia,20200218011307
+Taiwan,22,,1,,2,,Asia,20200218011307
+Malaysia,22,,,,9,,Asia,20200218011307
+Vietnam,16,,,,7,,Asia,20200218011307
+Germany,16,,,,7,,Europe,20200218011307
+USA,15,,,,3,,N.America,20200218011307
+Australia,15,,,,10,,Oceania,20200218011307
+France,12,,1,,5,,Europe,20200218011307
+Macao,10,,,,5,,Asia,20200218011307
+U.K.,9,,,,8,,Europe,20200218011307
+U.A.E.,9,,,,3,1,Asia,20200218011307
+Canada,8,,,,1,,N.America,20200218011307
+Philippines,3,,1,,2,,Asia,20200218011307
+Italy,3,,,,,2,Europe,20200218011307
+India,3,,,,3,,Asia,20200218011307
+Russia,2,,,,2,,Europe,20200218011307
+Spain,2,,,,2,,Europe,20200218011307
+Cambodia,1,,,,1,,Asia,20200218011307
+Sweden,1,,,,,,Europe,20200218011307
+Nepal,1,,,,1,,Asia,20200218011307
+Belgium,1,,,,1,,Europe,20200218011307
+Sri Lanka,1,,,,1,,Asia,20200218011307
+Finland,1,,,,1,,Europe,20200218011307
+Egypt,1,,,,,,Africa,20200218011307

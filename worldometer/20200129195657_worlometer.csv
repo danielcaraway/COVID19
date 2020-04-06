@@ -1,0 +1,21 @@
+Country,Cases,Deaths,Region,timestamp
+China,"6,070",133,Asia,20200129195657
+Thailand,14,0,Asia,20200129195657
+Hong Kong,11,0,Asia,20200129195657
+Taiwan,8,0,Asia,20200129195657
+Macau,7,0,Asia,20200129195657
+Malaysia,7,0,Asia,20200129195657
+Singapore,10,0,Asia,20200129195657
+Japan,7,0,Asia,20200129195657
+Australia,7,0,Oceania,20200129195657
+United States,5,0,America,20200129195657
+South Korea,4,0,Asia,20200129195657
+France,4,0,Europe,20200129195657
+Germany,4,0,Europe,20200129195657
+Canada,3,0,America,20200129195657
+Vietnam,2,0,Asia,20200129195657
+Cambodia,1,0,Asia,20200129195657
+Nepal,1,0,Asia,20200129195657
+United Arab Emirates,4,0,Middle East,20200129195657
+Finland,1,0,Europe,20200129195657
+Sri Lanka,1,0,Asia,20200129195657

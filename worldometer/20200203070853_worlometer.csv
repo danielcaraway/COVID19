@@ -1,0 +1,28 @@
+Country,Total Cases,NewToday,TotalDeaths,Today'sDeaths,TotalCured,TotalCritical,Region,timestamp
+China,"17,205","+2,824",361,+57,494,"2,296",Asia,20200203070853
+Japan,20,,,,,,Asia,20200203070853
+Thailand,19,,,,7,,Asia,20200203070853
+Singapore,18,,,,,,Asia,20200203070853
+South Korea,15,+3,,,,,Asia,20200203070853
+Hong Kong,15,+2,,,,,Asia,20200203070853
+Australia,12,,,,2,,Oceania,20200203070853
+U.S.,11,+3,,,,,N.America,20200203070853
+Taiwan,10,,,,,,Asia,20200203070853
+Germany,10,+2,,,,,Europe,20200203070853
+Vietnam,8,+2,,,1,,Asia,20200203070853
+Malaysia,8,,,,,,Asia,20200203070853
+Macao,8,+1,,,,,Asia,20200203070853
+France,6,,,,,2,Europe,20200203070853
+U.A.E.,5,,,,,,Asia,20200203070853
+Canada,4,,,,,,N.America,20200203070853
+Philippines,2,+1,1,+1,,,Asia,20200203070853
+U.K.,2,,,,,,Europe,20200203070853
+Italy,2,,,,,,Europe,20200203070853
+India,2,+1,,,,,Asia,20200203070853
+Russia,2,,,,,,Europe,20200203070853
+Cambodia,1,,,,,,Asia,20200203070853
+Sweden,1,,,,,,Europe,20200203070853
+Nepal,1,,,,,,Asia,20200203070853
+Sri Lanka,1,,,,1,,Asia,20200203070853
+Finland,1,,,,,,Europe,20200203070853
+Spain,1,,,,,,Europe,20200203070853

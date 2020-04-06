@@ -1,0 +1,34 @@
+"Country,Other",Total Cases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,"Serious,Critical",Region,timestamp
+China,"75,899",+435,"2,237",+1,"18,692","12,017",Asia,20200222001305
+Diamond Princess,634,,2,,17,27,,20200222001305
+S. Korea,207,+96,2,+1,17,,Asia,20200222001305
+Japan,109,+15,1,,22,5,Asia,20200222001305
+Singapore,86,+1,,,47,5,Asia,20200222001305
+Hong Kong,69,,2,,6,6,Asia,20200222001305
+Thailand,35,,,,19,2,Asia,20200222001305
+USA *,35,+20,,,6,,N.America,20200222001305
+Taiwan,26,+2,1,,2,1,Asia,20200222001305
+Malaysia,22,,,,17,,Asia,20200222001305
+Italy,21,+17,1,+1,1,7,Europe,20200222001305
+Australia,19,+2,,,11,,Oceania,20200222001305
+Iran,18,+13,4,+2,,,Asia,20200222001305
+Germany,16,,,,14,,Europe,20200222001305
+Vietnam,16,,,,15,,Asia,20200222001305
+France,12,,1,,7,,Europe,20200222001305
+U.A.E.,11,+2,,,3,1,Asia,20200222001305
+Macao,10,,,,6,,Asia,20200222001305
+Canada,9,+1,,,3,,N.America,20200222001305
+U.K.,9,,,,8,,Europe,20200222001305
+Philippines,3,,1,,2,,Asia,20200222001305
+India,3,,,,3,,Asia,20200222001305
+Russia,2,,,,2,,Europe,20200222001305
+Spain,2,,,,2,,Europe,20200222001305
+Belgium,1,,,,1,,Europe,20200222001305
+Cambodia,1,,,,1,,Asia,20200222001305
+Egypt,1,,,,1,,Africa,20200222001305
+Finland,1,,,,1,,Europe,20200222001305
+Israel,1,+1,,,,,Asia,20200222001305
+Lebanon,1,+1,,,,,Asia,20200222001305
+Nepal,1,,,,1,,Asia,20200222001305
+Sri Lanka,1,,,,1,,Asia,20200222001305
+Sweden,1,,,,,,Europe,20200222001305

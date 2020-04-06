@@ -1,0 +1,56 @@
+"Country,Other",Total Cases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,"Serious,Critical",Region,timestamp
+China,"78,832",+335,"2,788",+44,"36,136","7,952",Asia,20200228021837
+S. Korea,"2,022",+761,13,+1,24,18,Asia,20200228021837
+Diamond Princess,705,,4,,10,36,,20200228021837
+Italy,655,+185,17,+5,45,56,Europe,20200228021837
+Iran,245,+106,26,+7,54,,Asia,20200228021837
+Japan,214,+42,4,+1,32,13,Asia,20200228021837
+Singapore,96,+3,,,66,8,Asia,20200228021837
+Hong Kong,92,+3,2,,18,6,Asia,20200228021837
+USA,60,,,,6,,N.America,20200228021837
+Germany,49,+22,,,16,2,Europe,20200228021837
+Kuwait,43,+17,,,,,Asia,20200228021837
+Thailand,40,,,,22,2,Asia,20200228021837
+France,38,+20,2,,11,1,Europe,20200228021837
+Bahrain,33,,,,,,Asia,20200228021837
+Taiwan,32,,1,,5,1,Asia,20200228021837
+Spain,25,+12,,,2,2,Europe,20200228021837
+Australia,23,,,,15,,Oceania,20200228021837
+Malaysia,22,,,,20,,Asia,20200228021837
+U.A.E.,19,+6,,,5,2,Asia,20200228021837
+U.K.,16,+3,,,8,,Europe,20200228021837
+Vietnam,16,,,,16,,Asia,20200228021837
+Canada,14,+2,,,3,,N.America,20200228021837
+Macao,10,,,,6,,Asia,20200228021837
+Switzerland,8,+7,,,,,Europe,20200228021837
+Iraq,7,+2,,,,,Asia,20200228021837
+Sweden,7,+5,,,,,Europe,20200228021837
+Oman,6,+2,,,,,Asia,20200228021837
+Austria,5,+3,,,,,Europe,20200228021837
+Norway,4,+3,,,,,Europe,20200228021837
+Philippines,3,,1,,2,,Asia,20200228021837
+Croatia,3,,,,,,Europe,20200228021837
+Greece,3,+2,,,,,Europe,20200228021837
+India,3,,,,3,,Asia,20200228021837
+Israel,3,+1,,,,,Asia,20200228021837
+Lebanon,3,+1,,,,,Asia,20200228021837
+Finland,2,,,,1,,Europe,20200228021837
+Pakistan,2,,,,,,Asia,20200228021837
+Russia,2,,,,2,,Europe,20200228021837
+Afghanistan,1,,,,,,Asia,20200228021837
+Algeria,1,,,,,,Africa,20200228021837
+Belgium,1,,,,1,,Europe,20200228021837
+Brazil,1,,,,,,South America,20200228021837
+Cambodia,1,,,,1,,Asia,20200228021837
+Denmark,1,+1,,,,,Europe,20200228021837
+Egypt,1,,,,1,,Africa,20200228021837
+Estonia,1,+1,,,,,Europe,20200228021837
+Georgia,1,,,,,,Asia,20200228021837
+Lithuania,1,+1,,,,,Europe,20200228021837
+North Macedonia,1,,,,,,Europe,20200228021837
+Nepal,1,,,,1,,Asia,20200228021837
+Netherlands,1,+1,,,,,Europe,20200228021837
+Nigeria,1,+1,,,,,Africa,20200228021837
+Romania,1,,,,,,Europe,20200228021837
+San Marino,1,+1,,,,,Europe,20200228021837
+Sri Lanka,1,,,,1,,Asia,20200228021837

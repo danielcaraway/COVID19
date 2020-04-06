@@ -1,0 +1,39 @@
+"Country,Other",Total Cases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,"Serious,Critical",Region,timestamp
+China,"77,345",,"2,593",+1,"25,093","11,477",Asia,20200225001906
+S. Korea,833,+231,8,+2,22,6,Asia,20200225001906
+Diamond Princess,691,,3,,2,36,,20200225001906
+Italy,229,+72,7,+4,1,23,Europe,20200225001906
+Japan,159,+13,1,,23,7,Asia,20200225001906
+Singapore,90,+1,,,49,7,Asia,20200225001906
+Hong Kong,81,+7,2,,12,6,Asia,20200225001906
+Iran,61,+18,12,+4,3,,Asia,20200225001906
+USA,53,+18,,,5,,N.America,20200225001906
+Thailand,35,,,,15,2,Asia,20200225001906
+Taiwan,30,+2,1,,2,1,Asia,20200225001906
+Australia,22,,,,11,,Oceania,20200225001906
+Malaysia,22,,,,17,,Asia,20200225001906
+Germany,16,,,,14,,Europe,20200225001906
+Vietnam,16,,,,15,,Asia,20200225001906
+U.K.,13,,,,8,,Europe,20200225001906
+U.A.E.,13,,,,3,2,Asia,20200225001906
+France,12,,1,,11,,Europe,20200225001906
+Canada,11,+1,,,3,,N.America,20200225001906
+Macao,10,,,,5,,Asia,20200225001906
+Kuwait,5,+5,,,,,Asia,20200225001906
+Philippines,3,,1,,2,,Asia,20200225001906
+India,3,,,,3,,Asia,20200225001906
+Spain,3,+1,,,2,,Europe,20200225001906
+Bahrain,2,+2,,,,,Asia,20200225001906
+Israel,2,,,,,,Asia,20200225001906
+Oman,2,+2,,,,,Asia,20200225001906
+Russia,2,,,,2,,Europe,20200225001906
+Afghanistan,1,+1,,,,,Asia,20200225001906
+Belgium,1,,,,1,,Europe,20200225001906
+Cambodia,1,,,,1,,Asia,20200225001906
+Egypt,1,,,,1,,Africa,20200225001906
+Finland,1,,,,1,,Europe,20200225001906
+Iraq,1,,,,,,Asia,20200225001906
+Lebanon,1,,,,,,Asia,20200225001906
+Nepal,1,,,,1,,Asia,20200225001906
+Sri Lanka,1,,,,1,,Asia,20200225001906
+Sweden,1,,,,,,Europe,20200225001906

@@ -1,0 +1,30 @@
+"Country,Territory",Total Cases,Change(cases),TotalDeaths,Change(deaths),TotalRecovered,"Serious,Critical",Region,timestamp
+China,"66,492","+2,641","1,523",+143,"8,096","11,053",Asia,20200215014753
+Japan,259,,1,,11,9,Asia,20200215014753
+Singapore,67,,,,17,8,Asia,20200215014753
+Hong Kong,56,,1,,1,7,Asia,20200215014753
+Thailand,33,,,,13,1,Asia,20200215014753
+S. Korea,28,,,,7,,Asia,20200215014753
+Malaysia,19,,,,7,,Asia,20200215014753
+Taiwan,18,,,,1,,Asia,20200215014753
+Germany,16,,,,1,,Europe,20200215014753
+Vietnam,16,,,,7,,Asia,20200215014753
+USA,15,,,,3,,N.America,20200215014753
+Australia,15,,,,10,,Oceania,20200215014753
+France,11,,,,3,1,Europe,20200215014753
+Macao,10,,,,3,,Asia,20200215014753
+U.K.,9,,,,1,,Europe,20200215014753
+U.A.E.,8,,,,1,1,Asia,20200215014753
+Canada,8,,,,1,,N.America,20200215014753
+Philippines,3,,1,,2,,Asia,20200215014753
+Italy,3,,,,,2,Europe,20200215014753
+India,3,,,,1,,Asia,20200215014753
+Spain,2,,,,1,,Europe,20200215014753
+Russia,2,,,,2,,Europe,20200215014753
+Egypt,1,,,,,,Africa,20200215014753
+Sweden,1,,,,,,Europe,20200215014753
+Belgium,1,,,,,,Europe,20200215014753
+Cambodia,1,,,,1,,Asia,20200215014753
+Nepal,1,,,,1,,Asia,20200215014753
+Sri Lanka,1,,,,1,,Asia,20200215014753
+Finland,1,,,,1,,Europe,20200215014753
